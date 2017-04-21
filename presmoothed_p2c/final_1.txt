@@ -1,0 +1,8201 @@
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+IN	O	O
+VVN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+IN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+NN	O	O
+IN	B-movie.name	O
+RB	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WP	O	O
+VBD	O	O
+IN	O	O
+NN	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WP	O	O
+VBD	O	O
+NN	B-movie.name	O
+CD	I-movie.name	I-movie.name
+VBZ	O	O
+VVN	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+NP	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+JJR	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WP	O	O
+VVD	O	O
+IN	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+		
+VVN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+JJ	B-movie.name	O
+NN	I-movie.name	O
+NNS	O	O
+		
+WP	O	O
+VBP	O	O
+VVN	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+IN	O	O
+NNS	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+NNS	O	O
+		
+WP	O	O
+VVZ	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+VV	O	O
+NN	O	O
+NNS	O	O
+		
+NN	O	O
+NNS	O	O
+:	O	I-movie.name
+NN	B-movie.name	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+RP	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+NNS	O	O
+CC	O	O
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+VVG	O	B-movie.name
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+NP	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+UH	O	O
+VV	O	O
+RP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+RB	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+DT	O	O
+NN	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VV	O	O
+VV	O	O
+PP	O	O
+WRB	O	O
+JJ	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+PP	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	O
+		
+NN	B-movie.name	O
+POS	O	O
+NN	O	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	O
+VV	O	O
+IN	O	O
+		
+UH	O	O
+VV	O	O
+PP	O	O
+WP	O	O
+DT	O	O
+NN	O	O
+VBD	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-movie.name	O
+NN	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+JJ	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+VVZ	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+VVN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+PP$	B-movie.name	O
+JJ	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+RB	B-movie.name	O
+NN	I-movie.name	O
+POS	O	O
+NN	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	B-movie.name	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VBN	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+NNS	O	O
+VBP	O	O
+RB	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VBP	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+NN	B-country.name	O
+VHZ	O	O
+WRB	O	O
+JJ	O	O
+NNS	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVN	O	O
+IN	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VVD	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+JJ	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-producer.name	O
+VVN	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+WRB	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+VVZ	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+NN	O	O
+VBD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+IN	O	O
+		
+WP	O	O
+NN	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+VVD	O	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+JJ	B-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+IN	O	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WRB	O	O
+MD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VB	O	O
+VVN	O	O
+		
+NN	O	O
+NN	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+VVD	O	O
+MD	B-actor.name	O
+RB	I-actor.name	O
+VV	O	O
+VVG	O	B-movie.name
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+CD	B-movie.name	I-movie.name
+MD	O	O
+VB	O	O
+VVN	O	O
+		
+MD	O	O
+NP	O	O
+VHP	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+		
+NN	O	O
+POS	O	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+DT	O	O
+NN	O	O
+VBD	O	O
+VVN	O	O
+		
+WRB	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+VBD	O	O
+VVN	O	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+JJ	B-country.name	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+RP	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+NN	O	O
+RB	O	O
+		
+WRB	O	O
+VBD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+NNS	B-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+RB	B-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+NNS	B-movie.name	O
+IN	I-movie.name	O
+JJ	I-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+VVD	O	O
+NP	B-actor.name	O
+NP	I-actor.name	O
+NN	O	O
+NN	O	O
+		
+WRB	O	O
+VBZ	O	O
+VVN	B-movie.name	O
+VVG	O	B-movie.name
+TO	O	O
+VB	O	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+WRB	O	O
+VBD	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+VVN	O	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+VVD	O	O
+NN	B-movie.name	O
+VVD	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+WRB	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+VVD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+RP	O	O
+		
+WRB	O	O
+VVD	O	O
+NNS	B-movie.name	O
+VV	O	O
+RP	O	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+DT	B-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+IN	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+DT	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+VBD	O	O
+VVN	O	O
+		
+WRB	O	O
+VVZ	O	O
+NN	B-movie.name	O
+VV	O	O
+RP	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VVN	O	O
+RP	O	O
+		
+WRB	O	O
+VVD	O	O
+DT	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+NNS	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+VVG	O	B-movie.name
+RP	O	O
+		
+WP	O	O
+NN	O	O
+NN	O	O
+NN	B-movie.name	O
+VVD	I-movie.name	O
+VV	O	O
+RP	O	O
+		
+WRB	O	O
+MD	O	O
+NP	O	O
+VB	O	O
+JJ	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+IN	O	O
+WP	O	O
+NN	O	O
+MD	O	O
+VV	B-movie.name	O
+NN	I-movie.name	O
+LS	I-movie.name	I-movie.name
+VB	O	O
+VVN	O	O
+		
+WP	O	O
+VVD	O	O
+VVN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+VVD	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+WP	O	O
+DT	O	O
+NN	O	O
+VBD	O	O
+IN	O	O
+NNS	B-movie.name	O
+IN	I-movie.name	O
+JJ	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VV	O	O
+DT	O	O
+NN	O	O
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NNS	B-movie.name	O
+IN	I-movie.name	O
+JJ	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+		
+JJ	B-movie.name	O
+NN	O	O
+		
+NNS	B-movie.name	O
+NN	O	O
+NN	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+NNS	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+TO	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+VVN	O	O
+IN	O	O
+WP	O	O
+		
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+CD	B-movie.name	I-movie.name
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+WDT	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+NN	B-movie.name	O
+NN	O	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+RB	I-movie.name	O
+		
+UH	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+RP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	B-movie.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+WP	O	O
+VVD	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+NN	O	O
+NNS	B-movie.name	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+JJ	B-movie.name	O
+NN	B-movie.name	O
+POS	O	O
+NN	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+NN	I-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+		
+VV	O	O
+PP	O	O
+WP	O	O
+NN	O	O
+VVZ	O	O
+NN	O	O
+JJ	B-movie.name	O
+VVZ	O	O
+TO	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+CC	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+TO	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+VBZ	O	O
+IN	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+IN	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+DT	O	O
+NN	O	O
+POS	O	O
+NN	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+JJ	I-movie.name	O
+		
+IN	O	O
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+IN	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+IN	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+RP	O	O
+WP	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+PP$	I-movie.name	O
+NNS	I-movie.name	O
+VBZ	O	O
+IN	O	O
+		
+NNS	O	O
+VBP	O	O
+VVN	O	O
+IN	O	O
+VVG	O	B-movie.name
+NN	B-movie.name	O
+WP	O	O
+JJ	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+JJ	O	O
+IN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+NNS	B-producer.name	O
+RB	I-producer.name	O
+VVP	O	O
+DT	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+PP	O	O
+VVP	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NP	B-producer.name	O
+NN	I-producer.name	O
+		
+IN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+VV	O	O
+JJ	O	O
+NNS	O	O
+		
+VV	O	O
+NN	O	O
+NNS	O	O
+		
+VV	O	O
+RB	O	O
+VVN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VBD	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VBD	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NN	O	O
+MD	B-actor.name	O
+VV	I-actor.name	O
+NNS	O	O
+		
+MD	B-actor.name	O
+NP	I-actor.name	O
+NNS	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVD	O	O
+IN	O	O
+		
+VV	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+NNS	B-movie.name	O
+IN	O	O
+NP	O	O
+MD	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+JJ	B-movie.name	O
+		
+DT	O	O
+NN	O	O
+VBZ	O	O
+VVN	O	O
+JJ	B-movie.name	O
+		
+MD	B-actor.name	O
+NN	I-actor.name	O
+VVG	O	B-movie.name
+NN	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VVD	O	O
+NN	B-director.name	O
+NNS	I-director.name	O
+VVP	O	O
+		
+NNS	O	O
+CC	O	O
+JJ	O	O
+NN	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+JJ	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+NN	O	O
+		
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+NNS	O	O
+VBP	O	O
+VVG	O	B-movie.name
+IN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+JJ	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+NN	O	O
+NN	B-actor.name	O
+VVZ	I-actor.name	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+WP	O	O
+JJ	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+VVD	O	O
+		
+WP	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVN	O	O
+IN	O	O
+		
+UH	O	O
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+WDT	O	O
+JJ	B-actor.name	O
+NN	I-actor.name	O
+VHZ	O	O
+VVN	O	O
+		
+IN	O	O
+WDT	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-actor.name	O
+NNS	I-actor.name	O
+VVP	O	O
+		
+NN	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+WP	O	O
+NN	O	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+NN	O	O
+NN	O	O
+NNS	O	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+		
+NNS	O	O
+IN	O	O
+NN	O	O
+		
+UH	O	O
+VV	O	O
+DT	O	O
+NNS	O	O
+RB	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+VV	O	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.language	O
+NN	O	O
+NNS	O	O
+		
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VBP	O	O
+RB	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+DT	B-country.name	O
+VVN	B-country.name	O
+NNS	I-country.name	O
+		
+VV	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+NN	O	O
+NN	B-movie.language	O
+NNS	O	O
+		
+NN	B-movie.genre	O
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	O
+		
+VV	O	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+VV	O	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+NN	O	O
+NN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+WDT	O	O
+NNS	O	O
+VVD	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+JJ	O	O
+IN	O	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NP	B-country.name	O
+		
+MD	O	O
+NNS	O	O
+VV	O	O
+DT	O	O
+JJ	B-country.name	O
+NN	O	O
+		
+VV	O	O
+JJ	B-country.name	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+IN	O	O
+JJ	B-country.name	O
+NNS	O	O
+		
+PP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+JJ	B-country.name	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+NN	B-country.name	O
+:	O	I-movie.name
+VVN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+NN	B-country.name	O
+NN	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-country.name	O
+NNS	O	O
+		
+JJ	B-country.name	O
+NN	O	O
+NN	O	O
+		
+JJ	B-country.name	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+JJ	B-movie.genre	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+NP	B-actor.name	O
+NP	I-actor.name	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+IN	O	O
+NN	O	O
+		
+NN	B-country.name	O
+NNS	O	O
+		
+NN	B-country.name	O
+NNS	O	O
+VVP	O	O
+		
+VV	O	O
+JJ	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+WP	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+JJ	B-country.name	O
+NN	B-movie.genre	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	B-rating.name	O
+VVN	O	O
+NN	B-movie.genre	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.language	O
+NN	I-movie.language	O
+NNS	B-movie.genre	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+VV	O	O
+PP	O	O
+IN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+IN	O	O
+NN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+MD	O	O
+NNS	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+VVG	O	B-movie.name
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+VV	O	O
+PP	O	O
+RB	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+POS	O	O
+NNS	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+VVD	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+VVN	B-actor.name	O
+NNS	I-actor.name	O
+VBN	O	O
+IN	O	O
+		
+JJ	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+NN	O	O
+NN	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+JJ	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	O
+NN	I-movie.language	O
+NNS	O	O
+		
+WDT	O	O
+NNS	O	O
+VBP	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+NN	B-producer.name	O
+NNS	I-producer.name	O
+RB	O	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+		
+NN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+NN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+NNS	O	O
+VHG	O	O
+NNS	B-movie.subject	O
+		
+MD	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+NNS	B-movie.name	O
+NN	O	O
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+NN	O	O
+		
+WP	O	O
+NNS	O	O
+VBP	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-producer.name	O
+VVN	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VBZ	O	O
+NN	B-movie.name	O
+DT	O	O
+NN	B-movie.genre	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	B-actor.name	O
+VVZ	I-actor.name	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+JJ	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+DT	O	O
+JJ	B-rating.name	O
+NN	O	O
+		
+VV	O	O
+NN	O	O
+NNS	O	O
+WDT	O	O
+VBP	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+NNS	O	O
+VVP	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+IN	O	O
+NP	O	O
+MD	O	O
+VV	O	O
+DT	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	B-rating.name	O
+VVN	O	O
+NN	O	O
+		
+VV	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+VV	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+VVN	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+VV	O	O
+RP	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+		
+NNS	O	O
+VBP	O	O
+VVG	O	B-movie.name
+IN	O	O
+DT	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+IN	O	O
+PP$	O	O
+NNS	O	O
+TO	O	O
+VV	O	O
+		
+VVN	O	O
+NN	B-rating.name	O
+NNS	O	O
+IN	O	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+		
+VBP	O	O
+RB	O	O
+DT	O	O
+NNS	O	O
+VVD	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+VVD	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+VV	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+		
+NN	B-producer.name	O
+NN	I-producer.name	O
+VVD	O	O
+NN	O	O
+NN	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+		
+VV	O	O
+PP	O	O
+RB	B-country.name	O
+VVD	O	O
+NNS	O	O
+		
+NNS	O	O
+IN	O	O
+DT	B-country.name	O
+NN	I-country.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+DT	B-country.name	O
+NN	I-country.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+JJ	B-producer.name	O
+JJ	I-producer.name	O
+NN	O	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NNS	O	O
+VVP	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VVD	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VV	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+CD	B-movie.name	I-movie.name
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+WDT	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+NN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+NNS	B-director.name	O
+RB	I-director.name	O
+VVN	O	O
+		
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-director.name	O
+		
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-director.name	O
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+NN	B-producer.name	O
+NNS	I-director.name	O
+JJ	O	O
+		
+NN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+NNS	O	O
+		
+JJ	B-director.name	O
+NN	I-director.name	O
+NN	O	O
+		
+JJ	B-director.name	O
+NN	I-director.name	O
+NNS	O	O
+VVP	O	O
+		
+VVN	O	O
+IN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+DT	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+DT	B-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+NP	B-actor.name	O
+NP	I-actor.name	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+NNS	O	O
+WDT	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+WDT	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+NN	B-movie.language	O
+NNS	O	O
+VVP	O	O
+		
+NN	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+		
+NNS	O	O
+IN	O	O
+NNS	O	O
+		
+NN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+		
+WP	O	O
+VBD	O	O
+NP	B-actor.name	O
+NP	I-actor.name	O
+POS	O	O
+JJ	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+RB	I-director.name	O
+		
+NN	B-actor.name	O
+NNS	I-actor.name	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+		
+NNS	O	O
+VBP	O	O
+VVG	O	B-movie.name
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+JJR	B-director.name	O
+NN	I-director.name	O
+VV	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+JJ	I-producer.name	O
+		
+WP	O	O
+VBP	O	O
+RB	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+JJ	I-producer.name	O
+		
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+NN	O	O
+		
+VV	O	O
+RP	O	O
+DT	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+VVD	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN/that	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+NNS	O	O
+VVP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+PDT	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NNS	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+PDT	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NNS	B-director.name	O
+NN	I-director.name	O
+		
+NNS	B-producer.name	O
+NN	I-producer.name	O
+NNS	O	O
+VVD	O	O
+		
+NNS	O	O
+VVN	O	O
+IN	O	O
+NNS	B-producer.name	O
+NN	I-producer.name	O
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	B-producer.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+NNS	O	O
+VVP	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+NNS	O	O
+		
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+DT	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+JJR	O	O
+NN	O	O
+IN	O	O
+NP	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+NN	O	O
+NN	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVN	O	O
+IN	O	O
+NNS	O	O
+JJ	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVN	O	O
+IN	O	O
+		
+NN	B-producer.name	O
+NNS	O	O
+		
+NN	O	O
+NN	B-producer.name	O
+NNS	O	O
+		
+NN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	O	O
+NNS	B-producer.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+NNS	B-director.name	O
+NN	I-director.name	O
+		
+NN	O	O
+NNS	B-director.name	O
+NN	I-director.name	O
+NN	O	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+NNS	B-director.name	O
+NN	I-director.name	O
+JJ	O	O
+		
+WDT	O	O
+NNS	O	O
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+DT	B-country.name	O
+VVN	I-country.name	O
+NNS	I-country.name	O
+		
+VV	O	O
+PP	O	O
+NN	B-country.name	O
+NNS	O	O
+		
+NN	O	O
+CD	B-producer.name	I-movie.name
+NNS	I-producer.name	O
+NNS	O	O
+		
+JJ	B-movie.language	O
+NN	O	O
+		
+WP	O	O
+JJ	O	O
+NNS	O	O
+VVD	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+JJ	O	O
+IN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVG	O	B-movie.name
+NN	B-actor.name	O
+NNS	I-actor.name	O
+VVP	O	O
+		
+VV	O	O
+DT	O	O
+NN	B-actor.name	O
+POS	O	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	B-movie.genre	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+NP	B-actor.name	O
+NP	I-actor.name	O
+VVD	O	O
+IN	O	O
+WP	O	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+RB	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+NN	O	O
+NN	B-director.name	O
+JJ	I-director.name	O
+NNS	O	O
+		
+VVP	O	O
+TO	O	O
+VV	O	O
+JJ	B-director.name	O
+JJ	I-director.name	O
+NNS	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+WRB	O	O
+MD	O	O
+NNS	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VBN	O	O
+IN	O	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VHD	O	O
+VBN	O	O
+IN	O	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+VV	O	O
+DT	O	O
+NN	B-rating.name	O
+VVN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+		
+VV	O	O
+RB	O	O
+SYM	B-rating.name	B-rating.name
+VVN	O	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+RB	O	O
+SYM	B-rating.name	B-rating.name
+VVN	O	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+VVN	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+		
+UH	O	O
+VV	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+WDT	O	O
+VBP	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+MD	O	O
+NP	O	O
+VHP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.language	O
+NN	O	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+NNS	B-movie.subject	O
+IN	O	O
+PP	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+NP	B-director.name	O
+NP	I-director.name	O
+POS	O	O
+NN	O	O
+		
+VV	O	O
+NP	B-director.name	O
+NP	I-director.name	O
+NNS	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NP	B-director.name	O
+NP	I-director.name	O
+		
+NN	O	O
+NN	B-movie.language	O
+NNS	O	O
+		
+JJ	B-movie.language	O
+NNS	O	O
+		
+VV	O	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+NN	O	O
+NN	B-movie.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+VV	B-director.name	O
+NNS	I-director.name	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NNS	I-director.name	O
+		
+VVN	O	O
+IN	O	O
+		
+UH	O	O
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+UH	O	O
+VV	O	O
+RP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VV	O	O
+RP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+VVN	O	O
+IN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VVP	O	O
+RB	O	O
+VV	B-movie.name	O
+NNS	I-movie.name	O
+CD	I-movie.name	I-movie.name
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+:	I-movie.name	I-movie.name
+DT	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+:	I-movie.name	I-movie.name
+DT	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+NN	B-movie.name	O
+NNS	I-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+NNS	O	O
+VVP	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+CD	I-movie.name	I-movie.name
+JJ	O	O
+NN	O	O
+		
+NN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	O	O
+VVN	O	O
+TO	O	O
+VV	B-movie.name	O
+NNS	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+IN	B-movie.name	O
+JJ	I-movie.name	O
+NN	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+IN	B-movie.name	O
+JJ	I-movie.name	O
+NN	O	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+IN	B-movie.name	O
+JJ	I-movie.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+RB	O	O
+IN	B-movie.name	O
+JJ	I-movie.name	O
+NN	O	O
+		
+VV	O	O
+RP	O	O
+DT	O	O
+NN	O	O
+IN	B-movie.name	O
+RB	I-movie.name	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	B-movie.name	O
+RB	I-movie.name	O
+		
+NN	O	O
+IN	B-movie.name	O
+JJ	I-movie.name	O
+NNS	O	O
+		
+WRB	O	O
+MD	O	O
+NNS	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+IN	O	O
+NN	B-movie.language	O
+		
+NN	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+WDT	O	O
+VHP	O	O
+DT	O	O
+NN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+JJ	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+DT	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+		
+VBZ	O	O
+RB	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+NNS	I-producer.name	O
+		
+VV	O	O
+RP	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+VVG	I-movie.subject	B-movie.name
+IN	O	O
+PP	O	O
+		
+VV	O	O
+RB	O	O
+VVN	O	O
+NNS	B-movie.genre	O
+IN	O	O
+NN	B-country.name	O
+		
+NP	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NNS	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+RB	O	O
+		
+VV	O	O
+PP	O	O
+JJR	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	O	O
+NN	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+CC	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+		
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+VVP	O	O
+		
+NNS	O	O
+VVP	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NNS	O	O
+VVP	O	O
+		
+WDT	O	O
+NNS	O	O
+VVP	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+WDT	O	O
+NNS	O	O
+VVP	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVP	O	O
+IN	O	O
+		
+VV	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+		
+VVG	O	B-movie.name
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+RB	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+PDT	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+NN	B-rating.name	O
+VVD	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+NNS	O	O
+VVP	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+TO	O	O
+VV	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+WP	O	O
+NNS	O	O
+VBP	O	O
+JJ	B-rating.name	O
+		
+NNS	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VV	O	O
+		
+VV	O	O
+NN	B-director.name	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+VVG	O	B-movie.name
+NN	B-actor.name	O
+NNS	I-actor.name	O
+		
+NNS	O	O
+VVP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	O	O
+NNS	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	O	O
+NNS	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+NN	B-producer.name	O
+RB	I-producer.name	O
+VVD	O	O
+WP	O	O
+JJ	O	O
+NNS	O	O
+		
+WP	O	O
+VBZ	O	O
+NP	B-producer.name	O
+POS	O	O
+JJS	O	O
+NN	O	O
+		
+UH	O	O
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NNS	I-director.name	O
+		
+VBP	O	O
+RB	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+WDT	O	O
+VBP	O	O
+NN	B-movie.language	O
+NN	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VBN	O	O
+IN	O	O
+RB	O	O
+		
+NN	O	O
+IN	O	O
+JJ	O	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+IN	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+IN	B-movie.name	O
+RB	I-movie.name	O
+JJ	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+IN	O	O
+NNS	B-producer.name	O
+		
+JJ	B-producer.name	O
+NN	O	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+JJ	B-producer.name	O
+NNS	I-producer.name	O
+		
+WP	O	O
+VBZ	O	O
+NN	B-person.name	O
+JJ	I-person.name	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+NNS	B-person.name	O
+NN	I-person.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+NN	O	O
+IN	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+NN	O	O
+NNS	O	O
+RB	O	O
+MD	B-person.name	O
+VV	I-person.name	O
+		
+MD	B-person.name	O
+NP	I-person.name	O
+NN	O	O
+		
+NN	O	O
+MD	B-person.name	O
+VV	I-person.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+VV	O	O
+PP	O	O
+MD	B-person.name	O
+NN	I-person.name	O
+POS	O	O
+NN	O	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+NP	B-person.name	O
+NN	I-person.name	O
+		
+VVZ	O	O
+NP	B-person.name	O
+NP	I-person.name	O
+VHP	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+		
+WRB	O	O
+MD	O	O
+NNS	O	O
+VV	O	O
+NN	O	O
+IN	O	O
+NP	B-person.name	O
+NN	I-person.name	O
+		
+NN	B-person.name	O
+NN	I-person.name	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NP	B-person.name	O
+POS	O	O
+JJ	O	O
+NN	O	O
+		
+JJ	B-person.name	O
+NN	I-person.name	O
+NN	O	O
+		
+IN	O	O
+JJ	B-person.name	O
+NN	I-person.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+JJ	B-person.name	O
+NN	I-person.name	O
+		
+NN	O	O
+IN	O	O
+JJ	B-person.name	O
+NN	I-person.name	O
+		
+VV	O	O
+PP	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+NNS	O	O
+VVP	O	O
+JJR	O	O
+NN	O	O
+IN	O	O
+NP	B-person.name	O
+NP	I-person.name	O
+POS	O	O
+NN	O	O
+		
+DT	O	O
+NN	O	O
+NN	B-person.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVZ	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+NNS	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+FW	B-movie.name	B-movie.name
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+FW	B-movie.name	B-movie.name
+		
+WP	O	O
+VVZ	O	O
+NNS	B-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+NNS	B-movie.name	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+NN	B-movie.name	O
+NN	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+NN	B-movie.name	O
+POS	O	O
+NN	O	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+PP$	B-movie.name	O
+JJ	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+DT	B-movie.name	O
+NN	I-movie.name	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+PP	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+JJ	B-movie.name	O
+PP	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+WDT	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+JJ	I-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+WDT	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+WDT	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+WP	I-movie.name	O
+VBZ	I-movie.name	O
+VVG	I-movie.name	B-movie.name
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+RB	I-movie.name	O
+		
+UH	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+NN	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+RB	B-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+		
+NNS	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+RB	B-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+VVP	O	O
+		
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+DT	B-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+IN	O	O
+NNS	O	O
+		
+VV	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+JJ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+NN	O	O
+RB	O	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-character.name	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+NN	I-character.name	O
+IN	O	O
+JJ	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VVZ	O	O
+IN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+NN	B-character.name	O
+NN	O	O
+IN	O	O
+NP	B-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NP	B-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+VVZ	I-movie.name	O
+DT	I-movie.name	O
+CD	I-movie.name	I-movie.name
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NP	B-director.name	O
+POS	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	B-character.name	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+RB	O	O
+WP	O	O
+VBD	O	O
+IN	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+		
+WDT	O	O
+NN	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NN	B-movie.name	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NP	B-director.name	O
+POS	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+WP	O	O
+VVD	O	O
+NNS	B-character.name	O
+IN	O	O
+DT	O	O
+NN	O	O
+VVP	O	O
+CD	B-movie.name	I-movie.name
+NN	I-movie.name	O
+TO	I-movie.name	O
+VV	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-character.name	O
+IN	O	O
+NP	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+TO	I-movie.name	O
+VV	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+NN	I-character.name	O
+IN	O	O
+TO	B-movie.name	O
+VV	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	B-character.name	O
+CC	I-character.name	O
+DT	I-character.name	O
+NN	I-character.name	O
+IN	O	O
+TO	B-movie.name	O
+VV	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+UH	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+VVG	O	B-movie.name
+DT	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	O	O
+VVP	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+WRB	O	O
+RB	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+VVG	O	B-movie.name
+DT	O	O
+JJ	O	O
+VV	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+WRB	O	O
+RB	O	O
+VVZ	O	O
+PP	O	O
+VVD	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+PP	O	O
+VVD	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	O
+VBD	O	O
+VVN	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NNS	B-movie.name	O
+IN	I-movie.name	O
+JJ	I-movie.name	O
+CD	I-movie.name	I-movie.name
+NN	O	O
+		
+WRB	O	O
+RB	O	O
+VBD	O	O
+PP	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+TO	O	O
+JJ	B-movie.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+PP	O	O
+VVD	O	O
+TO	O	O
+VV	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	B-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+IN	O	O
+JJ	O	O
+		
+NNS	B-producer.name	O
+		
+WDT	O	O
+NN	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+FW	B-movie.name	B-movie.name
+FW	I-movie.name	B-movie.name
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+FW	B-movie.name	B-movie.name
+FW	I-movie.name	B-movie.name
+IN	O	O
+		
+WRB	O	O
+VBD	O	O
+DT	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+VVD	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVZ	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+VVZ	O	O
+IN	O	O
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+DT	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VVD	O	O
+IN	O	O
+		
+WRB	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+SENT	I-movie.name	I-movie.name
+VVN	O	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+SENT	I-movie.name	I-movie.name
+		
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+JJ	O	O
+NNS	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+VVZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NNS	B-movie.name	O
+CD	I-movie.name	I-movie.name
+IN	O	O
+DT	O	O
+NNS	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+NN	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+NNS	O	O
+		
+WRB	O	O
+MD	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+UH	I-movie.name	O
+PP$	I-movie.name	O
+NN	I-movie.name	O
+VB	O	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+DT	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NNS	I-movie.name	O
+NN	O	O
+VVD	O	O
+		
+NNS	O	O
+JJ	B-movie.name	O
+NNS	I-movie.name	O
+NN	O	O
+NN	O	O
+		
+WRB	O	O
+MD	O	O
+RB	B-movie.name	O
+VV	O	O
+RP	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	O
+VB	O	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+MD	O	O
+NN	B-movie.name	O
+VVG	I-movie.name	B-movie.name
+NN	I-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+VB	O	O
+VVN	O	O
+		
+WP	O	O
+VVD	O	O
+VVP	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+JJ	B-movie.name	O
+JJ	I-movie.name	O
+CC	I-movie.name	O
+JJ	I-movie.name	O
+		
+NP	O	O
+MD	O	O
+NP	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+TO	B-movie.name	O
+VV	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+VBZ	O	O
+NN	B-movie.name	O
+IN	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+		
+WP	O	O
+NN	O	O
+VBD	O	O
+NN	B-movie.name	O
+VVN	O	O
+IN	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+IN	O	O
+		
+WP	O	O
+VBZ	O	O
+NN	B-movie.name	O
+RB	I-movie.name	O
+POS	O	O
+JJ	O	O
+NN	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NNS	B-movie.name	O
+CC	I-movie.name	O
+VVZ	I-movie.name	O
+IN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-movie.genre	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-rating.name	O
+CD	I-rating.name	I-movie.name
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	O
+NNS	B-movie.genre	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+		
+VBP	O	O
+RB	O	O
+DT	O	O
+NNS	B-movie.genre	O
+IN	O	O
+JJ	B-movie.subject	O
+NNS	I-movie.subject	O
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	O
+VVN	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+		
+VV	O	O
+DT	O	O
+NNS	B-movie.genre	O
+		
+NN	O	O
+JJ	B-movie.genre	O
+NNS	I-movie.genre	O
+		
+NN	B-movie.genre	O
+		
+VV	O	O
+PP	O	O
+NNS	B-movie.genre	O
+		
+NN	O	O
+NN	B-movie.subject	O
+NNS	B-movie.genre	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NP	B-actor.name	O
+NP	I-actor.name	O
+NN	B-movie.type	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	B-movie.type	O
+IN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+NNS	B-movie.type	O
+VVN	O	O
+TO	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+JJ	O	O
+VVN	O	O
+NNS	B-movie.type	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NN	B-country.name	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+JJ	B-country.name	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+		
+WP	O	O
+NNS	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+DT	B-movie.release_date	O
+NN	I-movie.release_date	O
+		
+VV	O	O
+NN	B-country.name	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	B-director.name	O
+JJ	I-director.name	O
+NN	O	O
+		
+WP	O	O
+JJ	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-director.name	O
+JJ	I-director.name	O
+VVN	O	O
+		
+VV	O	O
+RP	O	O
+DT	O	O
+NNS	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VVD	O	O
+		
+NNS	O	O
+IN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+VVD	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VV	O	O
+DT	O	O
+NNS	O	O
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+NN	B-director.name	O
+NNS	I-director.name	O
+VVP	O	O
+		
+NNS	O	O
+IN	O	O
+NN	B-director.name	O
+NNS	I-director.name	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NNS	I-director.name	O
+		
+NN	B-director.name	O
+NN	I-director.name	O
+VHZ	O	O
+VVN	O	O
+WP	O	O
+NNS	O	O
+		
+UH	O	O
+VV	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+NN	B-director.name	O
+NNS	I-director.name	O
+VVD	O	O
+WP	O	O
+NN	O	O
+		
+VV	O	O
+NN	B-movie.genre	O
+NNS	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+		
+JJ	B-movie.genre	O
+NN	B-rating.name	O
+CD	I-rating.name	I-movie.name
+NNS	O	O
+		
+NN	B-movie.genre	O
+NNS	O	O
+		
+NP	O	O
+IN	O	O
+NN	B-movie.genre	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.release_date	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.release_date	O
+		
+VV	O	O
+RP	O	O
+DT	O	O
+NNS	O	O
+VVG	O	B-movie.name
+IN	O	O
+NN	B-movie.release_date	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+		
+RBS	O	O
+JJ	O	O
+NN	B-movie.subject	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+WDT	O	O
+VBP	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+WDT	O	O
+VBP	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVG	O	B-movie.name
+DT	O	O
+JJ	B-movie.language	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+WDT	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+JJ	B-movie.language	O
+NN	O	O
+		
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+NNS	O	O
+VBP	O	O
+VVG	O	B-movie.name
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NNS	B-producer.name	O
+JJ	I-producer.name	O
+		
+WP	O	O
+JJ	O	O
+NNS	O	O
+NNS	B-producer.name	O
+NN	I-producer.name	O
+NN	O	O
+		
+VHZ	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+VVD	O	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	O
+NN	I-producer.name	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+CD	B-producer.name	I-movie.name
+NNS	I-producer.name	O
+		
+NN	B-producer.name	O
+SYM	O	B-rating.name
+FW	O	B-movie.name
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+PP$	O	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+CC	I-movie.release_date	O
+CD	I-movie.release_date	I-movie.name
+TO	I-movie.release_date	O
+CD	I-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+CC	I-movie.release_date	O
+NN	I-movie.release_date	O
+		
+JJ	B-producer.name	O
+NN	I-producer.name	O
+NN	I-producer.name	O
+NNS	O	O
+CD	B-movie.release_date	I-movie.name
+		
+VV	O	O
+PP	O	O
+NN	B-rating.name	O
+CC	I-rating.name	O
+CD	I-rating.name	I-movie.name
+VVN	O	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+RB	B-rating.name	O
+VVN	I-rating.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+CD	I-rating.name	I-movie.name
+NN	B-movie.genre	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	B-rating.name	O
+CD	I-rating.name	I-movie.name
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	O
+WDT	O	O
+VVD	O	O
+RP	O	O
+IN	O	O
+DT	B-movie.release_date	O
+JJ	I-movie.release_date	O
+CD	I-movie.release_date	I-movie.name
+NNS	I-movie.release_date	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+VVN	O	O
+NN	B-rating.name	O
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+WDT	O	O
+VBP	O	O
+JJ	B-rating.name	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+JJ	B-actor.name	O
+NN	I-actor.name	O
+		
+WDT	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVD	O	O
+DT	B-movie.release_date	O
+NN	I-movie.release_date	O
+		
+WP	O	O
+NN	O	O
+VBD	O	O
+VVG	B-actor.name	B-movie.name
+DT	O	O
+JJ	B-character.name	O
+NN	I-character.name	O
+		
+VV	O	O
+RP	O	O
+NNS	O	O
+VVG	O	B-movie.name
+DT	O	O
+NN	B-actor.type	O
+NN	B-actor.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVG	O	B-movie.name
+DT	O	O
+NN	B-actor.type	O
+NN	B-actor.name	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NP	B-actor.name	O
+NP	I-actor.name	O
+NN	I-actor.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+WDT	O	O
+VHP	O	O
+JJ	B-actor.name	O
+NNS	I-actor.name	O
+CC	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+IN	O	O
+PP	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN/that	O	O
+JJ	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+VVN	O	O
+IN	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+VVG	B-movie.subject	B-movie.name
+NN	O	O
+IN	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+		
+NNS	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+NN	O	O
+IN/that	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+CC	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVN	O	O
+IN	O	O
+RB	O	O
+		
+NNS	O	O
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NN	B-movie.subject	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+WP	O	O
+NNS	O	O
+MD	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NNS	B-movie.subject	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+JJ	B-movie.subject	O
+NNS	I-movie.subject	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+JJ	B-movie.subject	O
+NNS	I-movie.subject	O
+		
+WP	O	O
+NNS	O	O
+VVP	O	O
+IN	O	O
+NN	B-movie.subject	O
+CC	I-movie.subject	O
+NN	I-movie.subject	O
+POS	I-movie.subject	O
+NNS	I-movie.subject	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+JJ	B-movie.subject	O
+NNS	I-movie.subject	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+JJ	B-movie.subject	O
+NNS	I-movie.subject	O
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-movie.subject	O
+NNS	O	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NN	B-movie.subject	O
+NN	I-movie.subject	O
+NNS	O	O
+NP	O	O
+MD	O	O
+VV	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVG	O	B-movie.name
+NN	B-movie.subject	O
+NN	I-movie.subject	O
+		
+NN	B-movie.subject	O
+NNS	O	O
+VVP	O	O
+		
+NN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.subject	O
+IN	O	O
+PP	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NNS	O	O
+VVP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NNS	O	O
+VVP	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.subject	O
+NN	I-movie.subject	O
+CD	I-movie.subject	I-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NN	B-movie.subject	O
+NN	I-movie.subject	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.subject	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NN	B-movie.name	O
+IN	O	O
+NN	B-movie.language	O
+		
+VBZ	O	O
+RB	B-movie.name	O
+VVN	O	O
+NN	B-rating.name	O
+		
+VV	O	O
+PP	O	O
+TO	O	O
+DT	O	O
+JJ	B-movie.language	O
+NN	O	O
+IN	O	O
+FW	B-movie.name	B-movie.name
+		
+VV	O	O
+NP	B-movie.name	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+JJ	B-movie.name	O
+CC	I-movie.name	O
+JJ	I-movie.name	O
+IN	O	O
+NN	B-movie.language	O
+		
+JJ	B-movie.name	O
+NN	I-movie.name	O
+POS	I-movie.name	O
+NN	I-movie.name	O
+NN	B-director.name	O
+NN	I-director.name	O
+		
+NN	O	O
+IN	O	O
+NN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+TO	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+RB	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+VBZ	O	O
+CD	B-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+JJ	O	O
+NN	B-movie.name	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+JJ	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+NN	O	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+:	I-movie.name	I-movie.name
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+:	I-movie.name	I-movie.name
+DT	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+		
+VVD	O	O
+NN	B-director.name	O
+JJ	I-director.name	O
+NN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+VBG	O	O
+VVN	O	O
+JJ	B-movie.release_date	O
+NN	I-movie.release_date	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+NN	O	O
+IN	O	O
+JJ	B-country.name	O
+NNS	O	O
+		
+JJ	B-movie.language	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.subject	O
+		
+NN	B-movie.language	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.language	O
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+		
+NN	O	O
+NN	O	O
+NN	O	O
+NNS	B-producer.name	O
+		
+JJ	B-producer.name	O
+NN	I-producer.name	O
+NNS	I-producer.name	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VH	O	O
+JJR	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-person.name	O
+JJ	I-person.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+		
+VV	O	O
+PP	O	O
+IN/that	O	O
+NN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+MD	B-actor.name	O
+VV	I-actor.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+NNS	I-movie.name	O
+		
+NN	B-movie.name	O
+POS	I-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+NN	O	O
+		
+NP	O	O
+NN	O	O
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+NP	O	O
+MD	O	O
+NP	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+NN	O	O
+NNS	O	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+JJ	O	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	O	O
+VV	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+DT	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+JJ	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WP	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+VVD	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NP	B-movie.name	O
+POS	O	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	B-movie.name	O
+		
+NN	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	O
+JJ	O	O
+IN	O	O
+NNS	O	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	O
+JJ	O	O
+		
+NP	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	O
+VV	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+		
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+WRB	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+NN	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+NN	B-movie.name	O
+VV	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+WP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	B-movie.name	O
+VBD	O	O
+		
+WRB	O	O
+RB	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+IN	O	O
+PP$	O	O
+JJ	O	O
+NN	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+JJ	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	O
+VVD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+RB	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+NNS	O	O
+IN	B-movie.name	O
+NN	I-movie.name	O
+		
+VBZ	O	O
+RB	B-movie.name	O
+RB	I-movie.name	O
+IN	O	O
+NN	O	O
+		
+NN	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+WDT	O	O
+VVZ	O	O
+VV	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+		
+WP	O	O
+VBZ	O	O
+JJ	B-person.name	O
+NN	I-person.name	O
+RB	O	O
+TO	O	O
+		
+NP	B-country.name	O
+VBP	O	O
+PDT	O	O
+PP$	O	O
+NNS	O	O
+IN	O	O
+PP$	O	O
+JJ	O	O
+NN	O	O
+CC	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+WP	O	O
+VBZ	O	O
+VVG	O	B-movie.name
+RB	O	O
+		
+WRB	O	O
+MD	O	O
+NNS	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+DT	O	O
+VBZ	O	O
+DT	O	O
+RB	O	O
+JJ	B-movie.genre	O
+		
+WRB	O	O
+TO	O	O
+VV	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+MD	O	O
+NP	O	O
+NN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+IN	O	O
+NN	O	O
+		
+NN	B-movie.name	O
+NN	I-movie.name	O
+VBZ	O	O
+VVN	O	O
+IN	O	O
+WP	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+WRB	O	O
+PP	O	O
+VVP	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+IN	O	O
+NN	O	O
+		
+NNS	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+WDT	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+JJS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+CD	O	I-movie.name
+NN	O	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+		
+NNS	O	O
+JJ	O	O
+IN	O	O
+NNS	O	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+		
+NN	O	O
+VVD	O	O
+NN	O	O
+		
+VV	O	O
+RP	O	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+JJ	O	O
+NN	O	O
+		
+VV	O	O
+JJ	O	O
+NNS	O	O
+		
+WRB	O	O
+MD	O	O
+NP	O	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+		
+NN	O	O
+NNS	O	O
+		
+WRB	O	O
+MD	O	O
+NNS	O	O
+VV	O	O
+NN	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	B-movie.name	O
+		
+WP	O	O
+VVZ	O	O
+DT	O	O
+NN	O	O
+SYM	B-rating.name	B-rating.name
+JJ	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+VVD	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+CC	O	O
+NNS	O	O
+TO	O	O
+DT	O	O
+NN	O	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+PP	O	O
+VV	O	O
+NNS	B-producer.name	O
+NN	I-producer.name	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	O
+		
+VBZ	O	O
+DT	O	O
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+NN	B-movie.name	O
+CD	I-movie.name	I-movie.name
+NN	O	O
+VBD	O	O
+VVN	O	O
+WRB	O	O
+		
+WP	O	O
+JJ	O	O
+NNS	O	O
+VBZ	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+IN	O	O
+		
+IN	O	O
+WRB	O	O
+JJ	O	O
+NNS	O	O
+VVD	O	O
+PP	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+CD	B-movie.gross_revenue	I-movie.name
+CD	I-movie.gross_revenue	I-movie.name
+NN	I-movie.gross_revenue	O
+CD	I-movie.gross_revenue	I-movie.name
+IN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+NN	O	O
+VBZ	O	O
+IN	O	O
+VVN	O	O
+NN	B-rating.name	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	B-movie.name	O
+NN	I-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVP	O	O
+PP	O	O
+VVP	O	O
+IN/that	O	O
+NN	B-producer.name	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NN	O	O
+POS	O	O
+NN	O	O
+		
+DT	O	O
+NN	O	O
+		
+WP	O	O
+VVZ	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+NNS	O	O
+		
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+MD	O	O
+IN	O	O
+VVD	O	O
+JJR	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+WP	O	O
+RB	O	O
+MD	O	O
+VH	O	O
+VVN	O	O
+PP$	O	O
+NN	O	O
+		
+CD	B-movie.gross_revenue	I-movie.name
+CD	I-movie.gross_revenue	I-movie.name
+NN	I-movie.gross_revenue	O
+CD	I-movie.gross_revenue	I-movie.name
+VBD	O	O
+VVN	O	O
+RP	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+JJ	O	O
+NN	O	O
+VV	O	O
+		
+WP	O	O
+VVD	O	O
+RP	O	O
+IN	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+TO	O	O
+VB	O	O
+VVN	O	O
+NN	B-rating.name	O
+		
+NP	O	O
+NN	O	O
+NN	B-person.name	O
+NNS	I-person.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+VVZ	O	O
+IN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+		
+WRB	O	O
+JJ	O	O
+VVP	O	O
+PP	O	O
+VHP	O	O
+TO	O	O
+VB	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+JJ	B-rating.name	O
+NN	O	O
+		
+VVZ	O	O
+NP	B-country.name	O
+VHP	O	O
+DT	O	O
+NN	O	O
+TO	O	O
+NN	O	O
+PP	B-country.name	O
+NN	B-award.ceremony	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+DT	O	O
+RBS	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+		
+NN	B-movie.location	O
+NN	O	O
+NNS	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NNS	B-producer.name	O
+		
+WP	O	O
+VVZ	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+VVP	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+JJR	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	O	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+VV	O	O
+NN	B-movie.name	O
+NN	O	O
+		
+NP	B-person.name	O
+NP	I-person.name	O
+NN	O	O
+		
+VVD	O	O
+NP	B-person.name	O
+NP	I-person.name	O
+VHP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+CC	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+NN	O	O
+		
+NN	O	O
+TO	O	O
+NN	O	O
+NN	O	O
+		
+WRB	O	O
+JJ	O	O
+VVP	O	O
+PP	O	O
+VHP	O	O
+TO	O	O
+VB	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+VVN	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+WP	O	O
+VVZ	O	O
+DT	O	O
+NN	B-rating.name	O
+CD	I-rating.name	I-movie.name
+NN	O	O
+NN	O	O
+		
+CD	B-movie.gross_revenue	I-movie.name
+CD	I-movie.gross_revenue	I-movie.name
+NN	I-movie.gross_revenue	O
+CD	I-movie.gross_revenue	I-movie.name
+VBZ	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+JJ	O	O
+		
+SYM	B-rating.name	B-rating.name
+NN	O	O
+WP	O	O
+VVZ	O	O
+RB	O	O
+VV	O	O
+		
+IN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	B-producer.name	O
+:	O	I-movie.name
+WP	O	O
+VVZ	O	O
+PP	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NN	O	O
+NNS	O	O
+		
+WRB	O	O
+VVZ	O	O
+DT	O	O
+NN	O	O
+VV	O	O
+DT	O	O
+NN	B-rating.name	O
+NN	O	O
+		
+VVD	O	O
+PP	O	O
+VHP	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+NNS	O	O
+		
+NN	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+		
+NNS	O	O
+VHP	O	O
+DT	O	O
+CD	O	I-movie.name
+NN	O	O
+JJ	O	O
+		
+NN	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+IN	O	O
+VVD	O	O
+JJR	O	O
+NN	O	O
+		
+WRB	O	O
+DT	O	O
+NN	O	O
+VVZ	O	O
+RB	O	O
+VV	O	O
+PP	O	O
+VVP	O	O
+PP	O	O
+MD	O	O
+VV	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+JJ	O	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NNS	O	O
+		
+IN	O	O
+NN	O	O
+		
+JJ	O	O
+		
+JJ	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+WRB	O	O
+VBZ	O	O
+NN	B-movie.language	O
+		
+WP	O	O
+VBZ	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+POS	O	O
+JJ	O	O
+NN	O	O
+		
+NN	O	O
+		
+NN	O	O
+CD	O	I-movie.name
+CD	O	I-movie.name
+WP	O	O
+		
+CD	O	I-movie.name
+CD	O	I-movie.name
+NN	O	O
+CD	O	I-movie.name
+CD	O	I-movie.name
+NNS	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+WP	O	O
+		
+VV	O	O
+NN	O	O
+NNS	O	O
+VVP	O	O
+JJ	O	O
+NNS	O	O
+		
+IN	O	O
+NNS	O	O
+		
+DT	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+VBZ	O	O
+IN	O	O
+NN	B-country.name	O
+:	O	I-movie.name
+WRB	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	B-country.name	O
+		
+WRB	O	O
+NN	O	O
+VBZ	O	O
+PP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+		
+VVD	O	O
+PP	O	O
+IN	O	O
+VVG	O	B-movie.name
+IN	O	O
+WP	O	O
+PP	O	O
+VVD	O	O
+		
+MD	O	O
+NNS	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NP	B-country.name	O
+		
+VBD	O	O
+PP$	O	O
+NN	O	O
+NN	O	O
+PP	O	O
+		
+JJ	O	O
+JJ	O	O
+NN	O	O
+NNS	O	O
+		
+VV	O	O
+JJR	O	O
+NN	O	O
+WDT	O	O
+VVZ	O	O
+TO	O	O
+NN	B-country.name	O
+		
+NNS	O	O
+IN	O	O
+NN	O	O
+NN	O	O
+		
+JJS	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+VV	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+NN	O	O
+CD	O	I-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+		
+WRB	O	O
+NN	O	O
+VBZ	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+VBD	O	O
+NP	B-movie.name	O
+POS	I-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+NN	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.release_region	O
+NN	I-movie.release_region	O
+IN	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	O
+NNS	I-movie.name	O
+		
+NN	O	O
+NN	O	O
+NN	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+JJ	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+CD	B-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+VBZ	I-movie.release_date	O
+IN	I-movie.release_date	O
+NN	I-movie.release_date	O
+		
+JJS	O	O
+NN	O	O
+		
+JJS	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+UH	O	O
+VV	O	O
+PP	O	O
+JJ	O	O
+NN	O	O
+NNS	O	O
+		
+JJS	O	O
+NNS	O	O
+		
+WP	O	O
+VVD	O	O
+DT	O	O
+IN	O	O
+DT	O	O
+RBS	O	O
+JJ	O	O
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	O	O
+NN	O	O
+NNS	O	O
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+VVP	O	O
+NN	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+		
+NN	O	O
+POS	O	O
+NN	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+JJ	B-director.nationality	O
+NN	O	O
+WDT	O	O
+VVD	O	O
+DT	O	O
+NN	B-movie.genre	O
+NN	O	O
+		
+NN	O	O
+NN	B-movie.name	O
+NN	O	O
+		
+VV	O	O
+NN	B-movie.name	O
+NN	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-award.ceremony	O
+NN	O	O
+VVG	O	B-movie.name
+JJ	B-country.name	O
+NN	B-movie.genre	O
+		
+WP	O	O
+NN	O	O
+NNS	O	O
+VVG	O	B-movie.name
+NN	B-actor.name	O
+NNS	I-actor.name	O
+VVD	O	O
+NN	B-award.ceremony	O
+NNS	O	O
+		
+IN	O	O
+NN	O	O
+IN	O	O
+NNS	O	O
+IN	O	O
+NN	O	O
+NNS	O	O
+VVP	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+NNS	O	O
+DT	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+JJ	O	O
+IN/that	O	O
+PP	O	O
+VVD	O	O
+DT	O	O
+JJS	B-award.category	O
+NN	I-award.category	O
+NN	B-award.ceremony	O
+IN	O	O
+		
+WP	O	O
+VBZ	O	O
+NN	B-director.name	O
+POS	O	O
+RBS	O	O
+JJ	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+IN	O	O
+NP	B-director.name	O
+SYM	I-director.name	B-rating.name
+VVZ	I-director.name	O
+JJS	O	O
+NNS	O	O
+		
+VVG	O	B-movie.name
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	O	O
+NN	O	O
+CD	O	I-movie.name
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	O	O
+CD	O	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+WDT	O	O
+VVD	O	O
+CD	B-movie.gross_revenue	I-movie.name
+NN	I-movie.gross_revenue	O
+CD	I-movie.gross_revenue	I-movie.name
+CD	I-movie.gross_revenue	I-movie.name
+IN	O	O
+DT	O	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+WDT	O	O
+VVD	O	O
+IN	B-movie.gross_revenue	O
+CD	I-movie.gross_revenue	I-movie.name
+CD	I-movie.gross_revenue	I-movie.name
+NNS	I-movie.gross_revenue	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN/that	O	O
+NN	O	O
+NN	O	O
+JJ	O	O
+RB	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+RB	B-movie.release_date	O
+CD	I-movie.release_date	I-movie.name
+NNS	I-movie.release_date	O
+		
+VV	O	O
+JJ	B-movie.release_date	O
+NNS	I-movie.release_date	O
+NNS	O	O
+IN	O	O
+CD	B-producer.name	I-movie.name
+NNS	I-producer.name	O
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+WDT	O	O
+VVD	O	O
+RP	O	O
+CD	B-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+CD	I-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+		
+VBD	O	O
+RB	O	O
+DT	O	O
+NNS	O	O
+VVD	O	O
+CD	B-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+CD	I-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+CD	B-movie.release_date	I-movie.name
+NNS	I-movie.release_date	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+IN	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+CD	B-movie.star_rating	I-movie.name
+NNS	O	O
+CC	O	O
+RB	O	O
+		
+NN	B-award.ceremony	O
+NN	O	O
+NN	B-producer.name	O
+NNS	O	O
+		
+NN	O	O
+NN	B-award.ceremony	O
+VVG	O	B-movie.name
+NNS	O	O
+IN	O	O
+NN	B-producer.name	O
+NNS	I-producer.name	O
+		
+WP	O	O
+NN	O	O
+NN	O	O
+VVD	O	O
+NN	B-actor.name	O
+NNS	I-actor.name	O
+VVP	O	O
+PP$	O	O
+JJS	B-award.category	O
+JJ	I-award.category	O
+NN	B-award.ceremony	O
+		
+VHP	O	O
+DT	O	O
+PP	B-country.name	O
+VVN	O	O
+NNS	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-movie.location	O
+NN	I-movie.location	O
+		
+WP	O	O
+PP	B-country.name	O
+VVP	O	O
+NNS	O	O
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+DT	O	O
+NN	B-movie.location	O
+NN	I-movie.location	O
+		
+NN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.location	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.release_region	O
+		
+WP	O	O
+NNS	O	O
+VBP	O	O
+VVG	O	B-movie.name
+RP	O	O
+DT	B-movie.release_date	O
+NN	I-movie.release_date	O
+IN	O	O
+JJ	B-movie.release_region	O
+NN	I-movie.release_region	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.release_region	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+JJ	O	O
+CD	O	I-movie.name
+NN	B-country.name	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+WP	O	O
+JJ	O	O
+NNS	O	O
+VHP	O	O
+VVN	O	O
+RP	O	O
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+JJ	O	O
+NNS	O	O
+IN	O	O
+NN	B-country.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+JJS	O	O
+VVN	O	O
+NN	B-movie.subject	O
+NN	O	O
+		
+WP	O	O
+VBP	O	O
+RB	O	O
+VVN	O	O
+NN	B-movie.subject	O
+NNS	O	O
+NP	O	O
+MD	O	O
+VV	O	O
+		
+NN	O	O
+IN	O	O
+JJ	O	O
+NNS	O	O
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.language	O
+NN	I-movie.language	O
+NNS	O	O
+		
+WP	O	O
+VBZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+JJ	O	O
+IN	O	O
+		
+VBZ	O	O
+DT	O	O
+DT	O	O
+NN	B-movie.genre	O
+		
+VVP	O	O
+IN/that	O	O
+DT	O	O
+NN	O	O
+VBZ	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+VV	O	O
+JJ	B-movie.language	O
+IN	O	O
+DT	O	O
+NN	O	O
+		
+VBZ	O	O
+DT	O	O
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.location	O
+		
+VV	O	O
+DT	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+JJ	I-movie.name	O
+NNS	O	O
+		
+DT	O	O
+IN	O	O
+NP	B-movie.name	O
+NP	I-movie.name	O
+NN	I-movie.name	O
+NNS	O	O
+		
+NN	O	O
+NNS	O	O
+WDT	O	O
+VHP	O	O
+NN	O	O
+NN	O	O
+IN	O	O
+PP$	O	O
+NN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+CD	B-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+CD	I-movie.release_date	I-movie.name
+NN	O	O
+NN	O	O
+NNS	O	O
+IN	O	O
+CD	I-movie.release_date	I-movie.name
+NN	I-movie.release_date	O
+		
+VV	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.language	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+JJR	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+CC	O	O
+NNS	O	O
+IN	O	O
+JJ	B-actor.nationality	O
+NN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+		
+WP	O	O
+VVZ	O	O
+DT	O	O
+NN	B-producer.name	O
+NN	O	O
+VVP	O	O
+IN	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+NNS	O	O
+IN	O	O
+JJ	B-person.name	O
+NN	I-person.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+NN	B-person.name	O
+NN	I-person.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN	O	O
+JJ	B-person.name	O
+NN	I-person.name	O
+		
+WP	O	O
+VBP	O	O
+JJ	O	O
+NN	O	O
+NNS	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+VVN	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+RP	O	O
+WP	O	O
+NN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+VBZ	O	O
+		
+WP	O	O
+VBZ	O	O
+NNS	B-movie.name	O
+IN	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+VVN	O	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+PP	I-movie.name	O
+VVP	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+NN	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VV	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+CC	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	O
+RB	I-movie.name	O
+		
+VV	O	O
+RP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+RB	I-movie.name	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+DT	B-movie.name	O
+NN	I-movie.name	O
+NN	O	O
+VV	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+VVG	I-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+WP	O	O
+VBD	O	O
+JJ	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+VVZ	I-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VHZ	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+VVN	O	O
+IN	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+VVP	I-movie.name	O
+NNS	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+JJS	O	O
+DT	O	O
+NN	O	O
+VVD	O	O
+		
+NNS	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+JJ	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBP	O	O
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+CC	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+		
+NNS	O	O
+IN	O	O
+NN	O	O
+		
+NNS	O	O
+IN	O	O
+IN	B-movie.name	O
+NN	I-movie.name	O
+		
+WP	O	O
+VBP	O	O
+DT	O	O
+NNS	O	O
+VVG	O	B-movie.name
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+WRB	O	O
+RB	O	O
+VBZ	O	O
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+CD	I-movie.name	I-movie.name
+		
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	O
+NN	O	O
+NN	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	O
+		
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+NN	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+NNS	I-movie.name	O
+DT	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	O
+		
+VV	O	O
+JJ	B-movie.name	O
+JJ	I-movie.name	O
+NNS	O	O
+IN	O	O
+NNS	O	O
+		
+MD	O	O
+NNS	O	O
+VV	O	O
+NNS	O	O
+IN	O	O
+JJ	O	O
+NN	B-producer.name	O
+NNS	I-producer.name	O
+NNS	O	O
+		
+WRB	O	O
+JJ	O	O
+JJ	B-director.name	O
+NN	I-director.name	O
+NNS	O	O
+VBP	O	O
+VVN	O	O
+IN	O	O
+JJ	B-movie.location	O
+VVP	I-movie.location	O
+NN	I-movie.location	O
+		
+WRB	O	O
+JJ	O	O
+JJ	B-producer.name	O
+NNS	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.location	O
+		

@@ -1,0 +1,8201 @@
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+		
+WP	O	O
+VBZ	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+IN	O	O
+NN	B-movie.name	B-movie.location
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+NN	B-movie.name	B-movie.location
+		
+NN	O	B-movie.subject
+IN	O	O
+VVN	B-movie.name	O
+		
+WP	O	O
+VVD	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	O
+CC	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+IN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+IN	O	O
+NN	O	B-character.name
+IN	B-movie.name	O
+RB	I-movie.name	B-movie.name
+		
+WP	O	O
+VBZ	O	O
+IN	O	B-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+IN	O	B-rating.name
+NN	B-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+NN	B-movie.name	O
+CD	I-movie.name	B-movie.release_date
+VBZ	O	O
+VVN	O	O
+		
+NN	O	O
+IN	O	O
+NN	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	O
+CC	O	O
+NN	O	B-character.name
+IN	O	O
+NP	B-movie.name	B-movie.name
+CD	I-movie.name	I-movie.name
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+JJR	O	O
+IN	O	O
+DT	O	B-movie.release_date
+NN	O	O
+CC	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+IN	O	O
+DT	B-movie.name	B-movie.release_date
+NNS	I-movie.name	O
+		
+VVN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+		
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+JJ	B-movie.name	B-producer.name
+NN	I-movie.name	I-producer.name
+NNS	O	I-producer.name
+		
+WP	O	O
+VBP	O	O
+VVN	O	O
+CC	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+IN	O	O
+NN	B-movie.name	B-movie.location
+		
+WP	O	O
+VBZ	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+NNS	B-movie.name	B-character.name
+IN	I-movie.name	O
+NN	I-movie.name	B-movie.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-person.name
+NNS	O	I-person.name
+		
+WP	O	O
+VVZ	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+NN	O	B-producer.name
+NNS	O	I-producer.name
+		
+NN	O	B-movie.name
+NNS	O	I-movie.name
+:	O	I-movie.name
+NN	B-movie.name	I-movie.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+VV	O	O
+RP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+VV	O	O
+NN	O	B-movie.subject
+IN	O	I-movie.subject
+DT	O	I-movie.subject
+NN	O	I-movie.subject
+CC	O	I-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.name	I-movie.subject
+		
+WP	O	O
+VBD	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NNS	O	O
+NNS	O	O
+CC	O	O
+NNS	O	B-character.name
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+VVG	O	O
+IN	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	O	B-movie.name
+NNS	O	I-movie.name
+IN	O	I-movie.name
+NP	B-movie.name	I-movie.name
+CD	I-movie.name	I-movie.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+		
+UH	O	O
+VV	O	O
+RP	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+NN	B-movie.name	B-movie.name
+RB	I-movie.name	I-movie.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	B-character.name
+DT	O	O
+NN	O	B-movie.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-rating.name
+NN	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+VV	O	O
+VV	O	O
+PP	O	O
+WRB	O	O
+JJ	O	B-movie.release_date
+VBD	O	O
+DT	O	B-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.name	I-movie.subject
+		
+WRB	O	O
+JJ	O	O
+NN	O	B-character.name
+VVD	O	O
+PP	O	O
+VVP	O	B-character.name
+TO	O	O
+VV	O	B-movie.name
+NN	B-movie.name	I-movie.name
+		
+NN	B-movie.name	B-movie.name
+POS	O	I-movie.name
+NN	O	I-movie.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	B-rating.name
+VV	O	I-rating.name
+IN	O	I-rating.name
+		
+UH	O	O
+VV	O	O
+PP	O	O
+WP	O	O
+DT	O	B-movie.release_date
+NN	O	O
+VBD	O	O
+IN	O	O
+NN	B-movie.name	B-movie.location
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+JJ	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NN	B-movie.name	I-movie.name
+VVZ	I-movie.name	I-movie.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+VVN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+PP$	B-movie.name	O
+JJ	I-movie.name	B-actor.nationality
+JJ	I-movie.name	O
+NN	I-movie.name	B-actor.name
+NN	I-movie.name	I-actor.name
+		
+WP	O	O
+VBD	O	O
+RB	B-movie.name	O
+NN	I-movie.name	B-movie.release_date
+POS	O	O
+NN	O	B-movie.subject
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NNS	B-movie.name	I-movie.name
+		
+WRB	O	O
+JJ	O	O
+NNS	O	B-character.name
+VHZ	O	O
+NN	B-actor.name	B-movie.name
+NN	I-actor.name	O
+VBN	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+		
+WRB	O	O
+JJ	O	B-producer.name
+NN	B-movie.name	I-producer.name
+NNS	I-movie.name	I-producer.name
+NNS	O	I-producer.name
+VBP	O	O
+RB	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	B-character.name
+VBP	O	O
+VVN	O	B-movie.name
+NN	B-rating.name	I-movie.name
+		
+NN	B-country.name	O
+VHZ	O	O
+WRB	O	O
+JJ	O	B-movie.release_date
+NNS	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	B-character.name
+VHZ	O	O
+NN	B-actor.name	B-movie.name
+NN	I-actor.name	I-movie.name
+VVN	O	O
+IN	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	B-character.name
+VHZ	O	O
+JJ	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+VVD	O	O
+		
+WRB	O	O
+JJ	O	O
+NNS	O	B-character.name
+VVD	O	O
+NN	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+JJ	O	I-movie.name
+		
+WRB	O	O
+JJ	O	O
+NNS	O	B-character.name
+VHZ	O	O
+JJ	B-producer.name	B-movie.name
+VVN	O	O
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+WRB	O	O
+DT	O	O
+NN	O	B-character.name
+NN	B-movie.name	O
+NN	I-movie.name	B-movie.name
+VVZ	O	I-movie.name
+		
+WP	O	O
+NN	O	B-rating.name
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+JJ	B-movie.name	B-director.name
+NN	I-movie.name	I-director.name
+		
+WP	O	O
+NN	O	B-rating.name
+VBD	O	O
+JJ	B-movie.name	B-rating.name
+NN	I-movie.name	I-rating.name
+IN	O	I-rating.name
+		
+WP	O	O
+NN	O	O
+VBD	O	O
+DT	O	O
+NN	O	B-movie.release_date
+VVD	O	O
+		
+WP	O	O
+NN	O	B-movie.subject
+VVD	O	O
+JJ	B-movie.name	O
+JJ	I-movie.name	B-character.name
+NN	I-movie.name	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+JJ	B-movie.name	I-movie.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+WRB	O	O
+MD	O	O
+JJ	B-movie.name	B-character.name
+NN	I-movie.name	O
+VB	O	O
+VVN	O	O
+		
+NN	O	B-movie.subject
+NN	O	I-movie.subject
+CC	O	I-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.name	I-movie.subject
+		
+WRB	O	O
+VVD	O	O
+MD	B-actor.name	O
+RB	I-actor.name	B-country.name
+VV	O	O
+VVG	O	B-movie.name
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+CD	B-movie.name	B-movie.release_date
+MD	O	O
+VB	O	O
+VVN	O	O
+		
+MD	O	O
+NP	O	O
+VHP	O	O
+NN	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+		
+NN	O	O
+POS	O	O
+NN	O	B-person.name
+NN	O	I-person.name
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+DT	O	O
+NN	O	B-character.name
+VBD	O	O
+VVN	O	B-movie.name
+		
+WRB	O	O
+DT	O	O
+NN	O	O
+JJ	B-movie.name	B-actor.nationality
+VBD	O	O
+VVN	O	B-actor.name
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+JJ	B-country.name	B-actor.nationality
+NN	O	O
+NN	B-movie.name	B-actor.name
+NN	I-movie.name	I-actor.name
+VVN	O	O
+RP	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	B-movie.name	O
+NN	I-movie.name	B-producer.name
+NN	O	I-producer.name
+NN	O	I-producer.name
+RB	O	I-producer.name
+		
+WRB	O	O
+VBD	O	O
+JJ	B-movie.name	B-character.name
+NN	I-movie.name	O
+VVN	O	B-movie.name
+		
+WRB	O	O
+VBD	O	O
+NNS	B-movie.name	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	B-rating.name
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+RB	B-movie.name	B-country.name
+NN	I-movie.name	O
+VVN	O	B-movie.name
+		
+WRB	O	O
+VBD	O	O
+NNS	B-movie.name	B-character.name
+IN	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+VVN	O	O
+		
+WRB	O	O
+VVD	O	B-producer.name
+NP	B-actor.name	I-producer.name
+NP	I-actor.name	I-producer.name
+NN	O	I-producer.name
+NN	O	I-producer.name
+		
+WRB	O	O
+VBZ	O	O
+VVN	B-movie.name	O
+VVG	O	B-movie.release_date
+TO	O	O
+VB	O	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+JJ	B-movie.name	B-character.name
+NN	I-movie.name	O
+VVN	O	B-movie.name
+		
+NN	O	B-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+VVG	B-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+		
+WRB	O	O
+VBD	O	O
+VVG	B-movie.name	O
+NN	I-movie.name	B-movie.release_date
+VVN	O	O
+		
+NN	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	B-character.name
+NNS	I-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	B-rating.name
+VVN	O	O
+		
+WRB	O	O
+VVD	O	O
+NN	B-movie.name	B-rating.name
+VVD	O	O
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+WRB	O	O
+VBD	O	O
+DT	O	B-movie.release_date
+NN	O	O
+NN	B-movie.name	B-movie.subject
+VVD	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	B-character.name
+NN	I-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+VVD	O	O
+JJ	B-movie.name	B-character.name
+NN	I-movie.name	O
+VVN	O	B-movie.name
+RP	O	I-movie.name
+		
+WRB	O	O
+VVD	O	O
+NNS	B-movie.name	B-character.name
+VV	O	O
+RP	O	O
+		
+WP	O	O
+NN	O	B-movie.subject
+VVD	O	O
+DT	B-movie.name	O
+JJ	I-movie.name	B-rating.name
+NN	I-movie.name	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WRB	O	O
+DT	O	O
+NN	O	B-character.name
+DT	B-movie.name	O
+NN	I-movie.name	B-movie.name
+VBD	O	O
+VVN	O	O
+		
+WRB	O	O
+VVZ	O	O
+NN	B-movie.name	B-character.name
+VV	O	O
+RP	O	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+NN	O	B-movie.subject
+VVD	O	O
+DT	O	O
+NN	O	B-character.name
+NN	B-movie.name	O
+VVN	O	B-movie.name
+RP	O	I-movie.name
+		
+WRB	O	O
+VVD	O	O
+DT	O	B-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	B-character.name
+NN	I-movie.name	O
+VVG	O	B-movie.name
+RP	O	I-movie.name
+		
+WP	O	O
+NN	O	B-producer.name
+NN	O	I-producer.name
+NN	B-movie.name	I-producer.name
+VVD	I-movie.name	O
+VV	O	O
+RP	O	O
+		
+WRB	O	O
+MD	O	O
+NP	O	O
+VB	O	O
+JJ	O	B-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+IN	O	O
+WP	O	O
+NN	O	B-character.name
+MD	O	O
+VV	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+LS	I-movie.name	I-movie.name
+VB	O	O
+VVN	O	O
+		
+WP	O	O
+VVD	O	O
+VVN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+VVD	O	O
+IN	O	B-movie.name
+JJ	B-movie.name	B-director.name
+NN	I-movie.name	I-director.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+WP	O	O
+DT	O	B-character.name
+NN	O	O
+VBD	O	O
+IN	O	B-rating.name
+NNS	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	B-rating.name
+NNS	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+JJ	B-movie.name	I-movie.name
+		
+JJ	B-movie.name	B-person.name
+NN	O	I-person.name
+		
+NNS	B-movie.name	O
+NN	O	B-producer.name
+NN	O	I-producer.name
+		
+NN	O	B-movie.subject
+IN	O	I-movie.subject
+NN	O	I-movie.subject
+NNS	B-movie.name	I-movie.subject
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+JJ	B-movie.name	I-movie.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+TO	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	O
+NN	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	B-character.name
+IN	I-movie.name	O
+NNS	I-movie.name	B-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+JJ	O	O
+NN	O	B-movie.name
+IN	O	I-movie.name
+VVG	B-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+		
+VV	O	O
+NN	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.release_date
+NN	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+VVG	B-movie.name	O
+NN	I-movie.name	B-movie.subject
+VVN	O	O
+IN	O	O
+WP	O	O
+		
+NN	O	B-movie.subject
+IN	O	I-movie.subject
+VVG	B-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+WP	O	O
+VBZ	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+CD	B-movie.name	O
+NN	I-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+WDT	O	O
+VVD	O	O
+NN	B-movie.name	B-movie.location
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+NN	B-movie.name	B-person.name
+NN	O	I-person.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+IN	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NN	B-movie.name	I-movie.name
+RB	I-movie.name	I-movie.name
+		
+UH	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+VV	O	O
+RP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+NN	I-movie.name	I-producer.name
+		
+NN	B-movie.name	B-person.name
+NN	O	I-person.name
+		
+VV	O	O
+PP	O	O
+WP	O	O
+VVD	O	O
+DT	B-movie.name	B-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+DT	B-movie.name	B-character.name
+NN	I-movie.name	O
+IN	I-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+WP	O	O
+VVD	O	O
+DT	B-movie.name	B-character.name
+NN	I-movie.name	O
+IN	I-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+NN	O	O
+NN	O	B-producer.name
+NNS	B-movie.name	I-producer.name
+NN	O	I-producer.name
+NN	O	I-producer.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+JJ	B-movie.name	B-character.name
+NN	B-movie.name	I-character.name
+POS	O	I-character.name
+NN	O	I-character.name
+		
+WP	O	O
+NN	O	B-rating.name
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+		
+WP	O	O
+NN	O	B-rating.name
+IN	O	O
+NN	O	B-rating.name
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-character.name
+CC	I-movie.name	O
+NN	I-movie.name	B-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+WP	O	O
+NN	O	B-actor.name
+VVZ	O	I-actor.name
+NN	O	O
+JJ	B-movie.name	B-actor.name
+VVZ	O	I-actor.name
+TO	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-character.name
+NN	I-movie.name	O
+CC	I-movie.name	B-movie.name
+DT	I-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+NN	O	B-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NN	B-movie.name	I-movie.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+TO	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+VBZ	O	O
+IN	O	O
+		
+WP	O	O
+NN	O	B-rating.name
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+IN	O	I-rating.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+JJ	B-movie.name	B-movie.release_date
+NN	I-movie.name	O
+DT	O	O
+NN	O	B-character.name
+POS	O	O
+NN	O	B-movie.name
+		
+WP	O	O
+NN	O	B-movie.subject
+VBZ	O	O
+DT	O	O
+NN	O	B-rating.name
+NN	B-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+		
+IN	O	O
+WP	O	O
+NN	O	B-character.name
+VBZ	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+WP	O	O
+NN	O	B-movie.subject
+VBZ	O	O
+DT	O	O
+NN	O	B-rating.name
+NN	B-movie.name	I-rating.name
+IN	O	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+WP	O	O
+NN	O	B-rating.name
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+IN	I-movie.name	I-rating.name
+IN	O	I-rating.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+		
+VV	O	O
+RP	O	O
+WP	O	O
+NN	O	O
+DT	B-movie.name	O
+NN	I-movie.name	B-character.name
+IN	I-movie.name	O
+PP$	I-movie.name	B-movie.name
+NNS	I-movie.name	I-movie.name
+VBZ	O	I-movie.name
+IN	O	O
+		
+NNS	O	O
+VBP	O	O
+VVN	O	O
+IN	O	O
+VVG	O	B-movie.release_date
+NN	B-movie.name	O
+WP	O	O
+JJ	O	B-movie.release_date
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	B-rating.name
+JJ	O	I-rating.name
+IN	O	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+IN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NNS	O	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NNS	O	I-rating.name
+		
+NNS	B-producer.name	O
+RB	I-producer.name	O
+VVP	O	B-character.name
+DT	O	O
+IN	O	B-movie.name
+DT	O	I-movie.name
+NNS	O	I-movie.name
+PP	O	O
+VVP	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NP	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+IN	O	O
+NN	B-movie.name	B-country.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-character.name
+IN	O	O
+NN	B-movie.name	B-movie.name
+VBZ	I-movie.name	I-movie.name
+JJ	I-movie.name	I-movie.name
+		
+VV	O	O
+JJ	O	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+NN	O	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+RB	O	O
+VVN	O	O
+NNS	O	B-movie.release_date
+IN	O	O
+NN	B-movie.language	B-movie.subject
+		
+VBD	O	O
+NN	B-actor.name	B-rating.name
+NN	I-actor.name	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+VBD	O	O
+NN	B-actor.name	B-rating.name
+NN	I-actor.name	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NN	B-movie.subject	O
+		
+NN	O	O
+IN	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+		
+NN	O	O
+MD	B-actor.name	O
+VV	I-actor.name	O
+NNS	O	B-movie.location
+		
+MD	B-actor.name	O
+NP	I-actor.name	B-producer.name
+NNS	O	I-producer.name
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	B-character.name
+VVD	O	O
+IN	O	B-movie.name
+		
+VV	O	O
+JJ	B-movie.language	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+JJ	B-movie.name	B-movie.name
+NNS	B-movie.name	I-movie.name
+IN	O	I-movie.name
+NP	O	O
+MD	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+IN	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+JJ	B-movie.name	B-movie.name
+		
+DT	O	B-movie.name
+NN	O	I-movie.name
+VBZ	O	I-movie.name
+VVN	O	O
+JJ	B-movie.name	O
+		
+MD	B-actor.name	O
+NN	I-actor.name	O
+VVG	O	B-movie.name
+NN	O	I-movie.name
+		
+WRB	O	O
+JJ	O	B-movie.subject
+NNS	O	O
+VVD	O	O
+NN	B-director.name	B-rating.name
+NNS	I-director.name	I-rating.name
+VVP	O	I-rating.name
+		
+NNS	O	O
+CC	O	O
+JJ	O	B-person.name
+NN	O	I-person.name
+		
+NN	O	O
+IN	O	O
+NN	B-director.name	B-rating.name
+NN	I-director.name	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NNS	B-movie.language	I-rating.name
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+IN	O	O
+JJ	O	B-actor.nationality
+VVG	B-movie.name	O
+NN	I-movie.name	B-actor.name
+NN	O	I-actor.name
+		
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+NN	O	I-movie.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+VVG	B-movie.name	O
+NN	I-movie.name	B-movie.name
+		
+NNS	O	O
+VBP	O	O
+VVG	O	O
+IN	O	O
+NN	O	B-movie.release_date
+IN	O	O
+DT	O	B-movie.subject
+NN	O	I-movie.subject
+VVG	B-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+VVG	B-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+		
+WP	O	O
+VVD	O	O
+NN	B-director.name	B-character.name
+NN	I-director.name	O
+JJ	O	B-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	O
+JJ	O	B-movie.release_date
+NNS	O	O
+VVN	O	O
+IN	O	O
+JJ	B-director.name	B-movie.release_date
+NN	I-director.name	O
+		
+NN	O	B-movie.subject
+NN	B-actor.name	I-movie.subject
+VVZ	I-actor.name	I-movie.subject
+NN	O	I-movie.subject
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NNS	I-actor.name	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+JJ	O	O
+NNS	O	B-character.name
+VHZ	O	O
+NN	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+VVD	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-producer.name	O
+NN	I-producer.name	B-movie.release_date
+VVD	O	O
+		
+WP	O	O
+VHZ	O	O
+NN	B-actor.name	B-character.name
+NN	I-actor.name	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+		
+UH	O	O
+VV	O	O
+DT	O	B-character.name
+NNS	O	O
+IN	O	O
+WDT	O	O
+JJ	B-actor.name	B-movie.release_date
+NN	I-actor.name	O
+VHZ	O	O
+VVN	O	O
+		
+IN	O	O
+WDT	O	O
+NNS	O	B-character.name
+VHZ	O	O
+JJ	B-actor.name	B-movie.name
+NNS	I-actor.name	I-movie.name
+VVP	O	O
+		
+NN	B-director.name	O
+NN	I-director.name	B-movie.subject
+VVD	O	O
+WP	O	O
+NN	O	B-rating.name
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+NN	O	O
+NN	O	B-producer.name
+NNS	O	I-producer.name
+		
+NN	O	B-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+NNS	O	I-movie.subject
+		
+NNS	O	B-movie.subject
+IN	O	I-movie.subject
+NN	O	I-movie.subject
+		
+UH	O	O
+VV	O	O
+DT	O	B-character.name
+NNS	O	O
+RB	O	B-movie.name
+VVN	O	B-director.name
+NN	B-rating.name	I-director.name
+		
+VV	O	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+		
+DT	O	O
+NN	O	B-movie.subject
+IN	O	O
+NNS	O	O
+VVN	O	B-country.name
+IN	O	O
+NN	B-country.name	B-movie.name
+		
+VBP	O	O
+RB	O	O
+DT	O	B-character.name
+NNS	O	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+DT	B-country.name	I-movie.name
+VVN	B-country.name	O
+NNS	I-country.name	O
+		
+VV	O	O
+JJ	B-movie.language	B-producer.name
+NNS	O	I-producer.name
+		
+NN	O	O
+NN	B-movie.language	B-producer.name
+NNS	O	I-producer.name
+		
+NN	B-movie.genre	B-movie.name
+		
+VV	O	O
+DT	O	B-movie.name
+NN	B-movie.genre	I-movie.name
+		
+VV	O	O
+NN	B-movie.genre	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+NN	B-movie.genre	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+PP	O	O
+NN	B-movie.genre	B-person.name
+NNS	O	I-person.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.genre	I-rating.name
+NNS	O	I-rating.name
+		
+NN	O	O
+NN	O	B-producer.name
+NN	B-actor.name	I-producer.name
+NN	I-actor.name	I-producer.name
+NNS	O	I-producer.name
+		
+WDT	O	O
+NNS	O	O
+VVD	O	O
+NN	B-actor.name	B-rating.name
+NNS	I-actor.name	I-rating.name
+JJ	O	I-rating.name
+IN	O	I-rating.name
+		
+NN	O	B-movie.subject
+NNS	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-actor.name	I-movie.subject
+NNS	I-actor.name	I-movie.subject
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NP	B-country.name	I-movie.name
+		
+MD	O	O
+NNS	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+JJ	B-country.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+JJ	B-country.name	B-producer.name
+NNS	O	I-producer.name
+		
+NN	O	O
+IN	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-country.name	I-rating.name
+NNS	O	I-rating.name
+		
+PP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+JJ	B-country.name	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-movie.name
+NN	B-country.name	I-movie.name
+:	O	I-movie.name
+VVN	O	O
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-country.name	I-rating.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NN	B-country.name	O
+		
+NN	B-country.name	O
+NN	O	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-country.name	I-rating.name
+NNS	O	I-rating.name
+		
+JJ	B-country.name	B-producer.name
+NN	O	I-producer.name
+NN	O	I-producer.name
+		
+JJ	B-country.name	B-movie.subject
+NNS	O	O
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NNS	O	O
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NNS	O	I-movie.name
+		
+VV	O	O
+DT	O	O
+JJ	B-movie.genre	B-person.name
+NNS	O	I-person.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NNS	B-movie.language	I-rating.name
+		
+NP	B-actor.name	B-producer.name
+NP	I-actor.name	I-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+NNS	O	O
+IN	O	B-rating.name
+NN	B-director.name	I-rating.name
+NN	I-director.name	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+		
+NN	B-country.name	B-movie.subject
+NNS	O	O
+		
+NN	B-country.name	O
+NNS	O	B-movie.subject
+VVP	O	O
+		
+VV	O	O
+JJ	B-actor.name	B-producer.name
+NN	I-actor.name	I-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+PP	O	O
+WP	O	O
+NN	B-director.name	O
+NN	I-director.name	B-movie.release_date
+VVD	O	O
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-country.name	B-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+JJ	B-country.name	O
+NN	B-movie.genre	B-movie.name
+NN	O	I-movie.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	B-rating.name	B-movie.release_date
+VVN	O	O
+NN	B-movie.genre	B-movie.subject
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.language	B-character.name
+NN	I-movie.language	O
+NNS	B-movie.genre	B-movie.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.name	B-rating.name
+NN	I-movie.name	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+IN	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+IN	O	O
+NN	O	B-character.name
+JJ	B-movie.name	O
+NN	I-movie.name	B-movie.name
+		
+MD	O	O
+NNS	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+NNS	O	I-rating.name
+		
+NN	O	O
+IN	O	O
+NNS	O	B-character.name
+VVG	O	O
+NN	B-actor.name	B-movie.name
+NN	I-actor.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+RB	O	O
+IN	O	O
+NN	B-actor.name	O
+NN	I-actor.name	B-movie.release_date
+POS	O	O
+NNS	O	B-movie.subject
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-producer.name	O
+NN	I-producer.name	B-movie.release_date
+VVD	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-country.name	B-movie.name
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHZ	O	O
+VVN	B-actor.name	O
+NNS	I-actor.name	B-character.name
+VBN	O	O
+IN	O	B-movie.name
+		
+JJ	B-movie.name	B-producer.name
+NN	I-movie.name	I-producer.name
+NN	O	I-producer.name
+		
+JJ	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+VV	O	O
+DT	O	O
+JJ	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+IN	O	O
+JJ	B-movie.name	B-producer.name
+NN	I-movie.name	I-producer.name
+		
+NNS	O	B-movie.subject
+IN	O	I-movie.subject
+NN	B-country.name	I-movie.subject
+		
+NN	O	B-movie.subject
+NNS	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-country.name	I-movie.subject
+		
+NN	O	O
+NN	B-movie.language	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	B-person.name
+NNS	O	I-person.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NNS	O	I-rating.name
+		
+JJ	B-movie.language	B-movie.subject
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	B-character.name
+NN	I-movie.language	O
+NNS	O	B-movie.name
+		
+WDT	O	O
+NNS	O	B-movie.subject
+VBP	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.language	B-movie.location
+		
+NN	B-producer.name	B-producer.name
+NNS	I-producer.name	I-producer.name
+RB	O	I-producer.name
+		
+NN	O	B-movie.subject
+NNS	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-producer.name	I-movie.subject
+		
+NN	O	O
+NN	B-actor.name	B-producer.name
+NN	I-actor.name	I-producer.name
+NNS	O	I-producer.name
+		
+NN	O	O
+NN	B-actor.name	B-producer.name
+NN	I-actor.name	I-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+NNS	O	B-movie.subject
+VHG	O	O
+NNS	B-movie.subject	O
+		
+MD	B-actor.name	O
+NN	I-actor.name	B-producer.name
+NNS	O	I-producer.name
+		
+NNS	B-movie.name	O
+NN	O	B-rating.name
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+NN	B-producer.name	O
+NN	I-producer.name	B-movie.location
+NN	O	I-movie.location
+		
+WP	O	O
+NNS	O	B-movie.subject
+VBP	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-producer.name	B-movie.name
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-producer.name	B-movie.release_date
+VVN	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-country.name	B-movie.name
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+DT	O	O
+NN	B-movie.genre	B-rating.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	B-actor.name	O
+VVZ	I-actor.name	O
+NN	O	B-movie.location
+NN	O	I-movie.location
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NN	B-country.name	O
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NN	B-country.name	O
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-country.name	I-movie.name
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-country.name	B-movie.name
+		
+JJ	B-movie.language	B-movie.subject
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	O	B-rating.name
+JJ	B-movie.language	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	B-person.name
+NNS	O	I-person.name
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHP	O	O
+DT	O	O
+JJ	B-rating.name	B-director.name
+NN	O	I-director.name
+		
+VV	O	O
+NN	O	O
+NNS	O	B-character.name
+WDT	O	O
+VBP	O	O
+VVN	O	O
+NN	B-rating.name	B-movie.location
+		
+NNS	O	O
+VVP	O	O
+DT	O	B-character.name
+NN	B-rating.name	O
+NN	O	B-movie.name
+IN	O	O
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	B-rating.name	B-character.name
+VVN	O	O
+NN	O	B-movie.name
+		
+VV	O	O
+NN	B-rating.name	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+NN	B-rating.name	B-producer.name
+NNS	O	I-producer.name
+		
+NNS	O	O
+VVP	O	O
+VVN	O	O
+NN	B-rating.name	B-movie.release_date
+NNS	O	O
+		
+VV	O	O
+RP	O	O
+NN	B-rating.name	B-character.name
+VVN	O	O
+NNS	O	B-movie.name
+		
+NNS	O	O
+VBP	O	O
+VVG	O	O
+IN	O	O
+DT	O	B-movie.release_date
+NN	B-rating.name	O
+VVN	O	O
+NNS	O	B-character.name
+IN	O	O
+PP$	O	B-movie.name
+NNS	O	I-movie.name
+TO	O	I-movie.name
+VV	O	O
+		
+VVN	O	O
+NN	B-rating.name	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+NN	B-rating.name	B-movie.subject
+VVN	O	O
+NNS	O	O
+		
+VBP	O	O
+RB	O	O
+DT	O	O
+NNS	O	O
+VVD	O	O
+NN	B-rating.name	B-movie.location
+NN	O	I-movie.location
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	B-movie.release_date
+VVN	O	O
+NN	B-rating.name	B-movie.subject
+		
+VV	O	O
+NNS	O	B-movie.subject
+VVN	O	O
+NN	B-rating.name	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-rating.name	B-movie.name
+NN	O	I-movie.name
+		
+VVD	O	O
+JJ	B-director.name	B-rating.name
+NN	I-director.name	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+		
+NN	B-producer.name	O
+NN	I-producer.name	O
+VVD	O	O
+NN	O	B-movie.location
+NN	O	I-movie.location
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	B-movie.release_date
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+VV	O	O
+NNS	O	O
+VVN	O	B-country.name
+IN	O	O
+NN	B-producer.name	B-movie.name
+		
+VV	O	O
+PP	O	O
+RB	B-country.name	B-country.name
+VVD	O	O
+NNS	O	B-movie.name
+		
+NNS	O	O
+IN	O	O
+DT	B-country.name	B-movie.location
+NN	I-country.name	I-movie.location
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+DT	B-country.name	B-movie.name
+NN	I-country.name	I-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+JJ	B-producer.name	B-actor.nationality
+JJ	I-producer.name	O
+NN	O	B-actor.name
+NN	O	I-actor.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+IN	O	I-rating.name
+NN	B-producer.name	I-rating.name
+NN	I-producer.name	I-rating.name
+		
+VVD	O	O
+NN	B-director.name	B-rating.name
+NN	I-director.name	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+WDT	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-director.name	B-director.name
+NN	I-director.name	I-director.name
+VVD	O	O
+		
+NN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	B-movie.release_date
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.language	B-character.name
+NN	B-movie.genre	O
+NNS	O	B-movie.name
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NNS	O	I-rating.name
+NNS	B-director.name	I-rating.name
+RB	I-director.name	O
+VVN	O	O
+		
+NNS	O	O
+IN	O	O
+NN	B-producer.name	B-person.name
+NN	I-director.name	I-person.name
+		
+NNS	O	O
+IN	O	O
+NN	B-producer.name	B-person.name
+NN	I-director.name	I-person.name
+		
+WP	O	O
+NNS	O	O
+VVD	O	B-producer.name
+NN	B-producer.name	I-producer.name
+NNS	I-director.name	I-producer.name
+JJ	O	I-producer.name
+		
+NN	O	O
+JJ	B-director.name	B-producer.name
+NN	I-director.name	I-producer.name
+NNS	O	I-producer.name
+		
+JJ	B-director.name	B-producer.name
+NN	I-director.name	I-producer.name
+NN	O	I-producer.name
+		
+JJ	B-director.name	O
+NN	I-director.name	B-rating.name
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+		
+VVN	O	O
+IN	O	O
+JJ	B-director.name	B-person.name
+NN	I-director.name	I-person.name
+		
+VV	O	O
+DT	O	O
+JJ	B-director.name	B-character.name
+NN	I-director.name	O
+NNS	O	B-movie.name
+		
+VV	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-director.name	I-rating.name
+NN	I-director.name	I-rating.name
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+DT	O	B-movie.release_date
+NN	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+DT	B-movie.name	O
+NN	I-movie.name	B-rating.name
+		
+NN	O	O
+NN	B-actor.name	B-rating.name
+NN	I-actor.name	I-rating.name
+DT	B-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+		
+NN	O	B-movie.subject
+NNS	O	O
+IN	O	O
+NP	B-actor.name	B-director.name
+NP	I-actor.name	I-director.name
+		
+NN	O	O
+IN	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-country.name	B-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+NNS	O	B-movie.release_date
+WDT	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	B-movie.location
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+WDT	O	O
+VBD	O	O
+VVN	O	B-country.name
+IN	O	O
+NN	B-country.name	B-movie.name
+		
+NN	B-movie.language	O
+NNS	O	B-movie.subject
+VVP	O	O
+		
+NN	B-movie.language	B-movie.subject
+NNS	O	O
+		
+VV	O	O
+NNS	O	B-movie.subject
+VVN	O	O
+IN	O	O
+		
+NNS	O	B-movie.subject
+IN	O	O
+NNS	O	O
+		
+NN	O	O
+NNS	O	B-movie.subject
+VVN	O	O
+IN	O	O
+		
+VV	O	O
+NNS	O	O
+VVN	O	B-country.name
+IN	O	O
+NN	B-producer.name	B-movie.name
+		
+WP	O	O
+VBD	O	O
+NP	B-actor.name	B-actor.name
+NP	I-actor.name	I-actor.name
+POS	O	O
+JJ	O	B-actor.name
+NN	O	I-actor.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-director.name	I-movie.name
+RB	I-director.name	I-movie.name
+		
+NN	B-actor.name	B-producer.name
+NNS	I-actor.name	I-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-actor.name	B-movie.name
+NNS	I-actor.name	I-movie.name
+		
+NNS	O	O
+VBP	O	O
+VVG	O	O
+TO	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NNS	I-actor.name	I-rating.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+VVN	O	O
+IN	O	O
+JJR	B-director.name	B-director.name
+NN	I-director.name	I-director.name
+VV	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+IN	O	B-movie.release_date
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.release_date
+JJ	I-producer.name	O
+		
+WP	O	O
+VBP	O	O
+RB	O	O
+IN	O	O
+DT	O	B-movie.release_date
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.release_date
+JJ	I-producer.name	O
+		
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-producer.name	I-producer.name
+NN	I-producer.name	I-producer.name
+NN	O	I-producer.name
+		
+VV	O	O
+RP	O	O
+DT	O	B-character.name
+NN	B-producer.name	O
+NN	I-producer.name	B-movie.name
+VVD	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN/that	O	O
+NN	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+VVD	O	O
+		
+NNS	O	O
+VVP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+PDT	O	O
+DT	O	B-movie.release_date
+NNS	O	O
+VVN	O	O
+IN	O	O
+NNS	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+PDT	O	O
+DT	O	B-movie.release_date
+NNS	O	O
+VVN	O	O
+IN	O	O
+NNS	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+NNS	B-producer.name	O
+NN	I-producer.name	B-movie.subject
+NNS	O	O
+VVD	O	O
+		
+NNS	O	O
+VVN	O	O
+IN	O	O
+NNS	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	B-producer.name	O
+NN	O	B-movie.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-character.name
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+NNS	O	O
+VVP	O	O
+NN	O	B-character.name
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+NNS	O	I-movie.name
+		
+NN	O	O
+NN	B-movie.name	B-producer.name
+NN	I-movie.name	I-producer.name
+		
+NN	O	O
+NN	O	O
+NN	O	B-character.name
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+DT	B-movie.name	O
+NN	I-movie.name	B-producer.name
+NN	O	I-producer.name
+		
+JJR	O	O
+NN	O	B-rating.name
+IN	O	O
+NP	B-movie.name	B-rating.name
+CD	I-movie.name	I-rating.name
+		
+NN	O	B-movie.name
+NN	B-movie.name	I-movie.name
+CD	I-movie.name	I-movie.name
+		
+VHZ	O	O
+NN	B-actor.name	B-movie.subject
+NN	I-actor.name	O
+VVN	O	O
+IN	O	B-rating.name
+NNS	O	I-rating.name
+JJ	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+NN	B-actor.name	B-character.name
+NN	I-actor.name	O
+NNS	O	B-movie.name
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	B-character.name
+NN	I-actor.name	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+		
+NN	B-producer.name	B-movie.subject
+NNS	O	O
+		
+NN	O	O
+NN	B-producer.name	B-producer.name
+NNS	O	I-producer.name
+		
+NN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	O	B-movie.release_date
+NNS	B-producer.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NNS	B-director.name	I-rating.name
+NN	I-director.name	I-rating.name
+		
+NN	O	B-producer.name
+NNS	B-director.name	I-producer.name
+NN	I-director.name	I-producer.name
+NN	O	I-producer.name
+		
+WP	O	O
+NN	O	O
+VVD	O	B-producer.name
+NNS	B-director.name	I-producer.name
+NN	I-director.name	I-producer.name
+JJ	O	I-producer.name
+		
+WDT	O	O
+NNS	O	B-movie.subject
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+DT	B-country.name	B-movie.release_date
+VVN	I-country.name	O
+NNS	I-country.name	B-movie.subject
+		
+VV	O	O
+PP	O	O
+NN	B-country.name	B-person.name
+NNS	O	I-person.name
+		
+NN	O	O
+CD	B-producer.name	B-producer.name
+NNS	I-producer.name	I-producer.name
+NNS	O	I-producer.name
+		
+JJ	B-movie.language	B-person.name
+NN	O	I-person.name
+		
+WP	O	O
+JJ	O	B-movie.subject
+NNS	O	O
+VVD	O	O
+NN	B-actor.name	B-rating.name
+NNS	I-actor.name	I-rating.name
+JJ	O	I-rating.name
+IN	O	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVG	O	O
+NN	B-actor.name	B-rating.name
+NNS	I-actor.name	I-rating.name
+VVP	O	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	B-actor.name	B-character.name
+POS	O	O
+NN	O	B-movie.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	B-movie.release_date
+NN	B-movie.genre	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	B-movie.location
+		
+NP	B-actor.name	B-producer.name
+NP	I-actor.name	I-producer.name
+VVD	O	O
+IN	O	O
+WP	O	O
+NNS	O	B-movie.location
+		
+VV	O	O
+PP	O	O
+RB	O	O
+IN	O	O
+DT	O	B-movie.release_date
+NNS	O	O
+VVN	O	O
+IN	O	O
+JJ	B-director.name	B-movie.release_date
+NN	I-director.name	O
+		
+NN	O	O
+NN	B-director.name	B-producer.name
+JJ	I-director.name	I-producer.name
+NNS	O	I-producer.name
+		
+VVP	O	O
+TO	O	O
+VV	O	B-rating.name
+JJ	B-director.name	I-rating.name
+JJ	I-director.name	I-rating.name
+NNS	O	I-rating.name
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+JJ	B-director.name	B-director.name
+NN	I-director.name	I-director.name
+VVD	O	O
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+JJ	B-director.name	B-director.name
+NN	I-director.name	I-director.name
+VVD	O	O
+		
+WRB	O	O
+MD	O	O
+NNS	O	B-character.name
+VV	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	B-character.name
+VBN	O	O
+IN	O	B-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NNS	O	I-character.name
+NN	B-actor.name	I-character.name
+NN	I-actor.name	I-character.name
+VHD	O	I-character.name
+VBN	O	O
+IN	O	B-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	B-rating.name	B-character.name
+VVN	O	O
+NN	O	B-movie.name
+		
+VV	O	O
+PP	O	O
+NN	B-rating.name	B-character.name
+VVN	O	O
+NNS	O	B-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NN	B-rating.name	I-movie.name
+VVN	O	O
+NNS	O	O
+		
+VV	O	O
+RB	O	O
+SYM	B-rating.name	B-rating.name
+VVN	O	O
+NNS	O	O
+		
+NNS	O	B-movie.subject
+VVP	O	O
+RB	O	O
+SYM	B-rating.name	B-rating.name
+VVN	O	O
+NNS	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	B-movie.release_date
+NN	O	O
+IN	O	O
+VVN	O	O
+NN	B-rating.name	B-movie.release_date
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-rating.name	I-rating.name
+		
+UH	O	O
+VV	O	O
+IN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+VVN	O	O
+NN	B-rating.name	B-movie.name
+		
+NN	O	O
+IN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+NNS	O	B-movie.release_date
+WDT	O	O
+VBP	O	O
+VVN	O	O
+NN	B-rating.name	B-movie.location
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-country.name	I-rating.name
+		
+MD	O	O
+NP	O	B-movie.subject
+VHP	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-country.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+NN	B-movie.name	B-movie.name
+NNS	I-movie.name	I-movie.name
+		
+WP	O	O
+NNS	O	O
+VHP	O	O
+NNS	B-movie.subject	O
+IN	O	B-movie.release_date
+PP	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NNS	B-movie.subject	B-movie.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NNS	B-movie.subject	B-movie.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+JJ	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+		
+VV	O	O
+NP	B-director.name	O
+NP	I-director.name	B-character.name
+POS	O	O
+NN	O	B-movie.name
+		
+VV	O	O
+NP	B-director.name	B-producer.name
+NP	I-director.name	I-producer.name
+NNS	O	I-producer.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+NNS	O	B-movie.release_date
+VVN	O	O
+IN	O	O
+NP	B-director.name	B-director.name
+NP	I-director.name	I-director.name
+		
+NN	O	O
+NN	B-movie.language	B-producer.name
+NNS	O	I-producer.name
+		
+JJ	B-movie.language	B-movie.subject
+NNS	O	O
+		
+VV	O	O
+NN	B-movie.genre	B-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	B-person.name
+NNS	O	I-person.name
+		
+NN	O	O
+NN	B-movie.name	B-producer.name
+NN	O	I-producer.name
+		
+VV	O	O
+PP	O	O
+VV	B-director.name	B-rating.name
+NNS	I-director.name	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.release_date
+NNS	I-director.name	O
+		
+VVN	O	O
+IN	O	O
+		
+UH	O	O
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+UH	O	O
+VV	O	O
+RP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+NN	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VV	O	O
+RP	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-actor.name	B-character.name
+NNS	I-actor.name	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+VVN	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-country.name	I-movie.name
+		
+VVP	O	O
+RB	O	O
+VV	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.name	B-movie.name
+NNS	I-movie.name	I-movie.name
+:	I-movie.name	I-movie.name
+DT	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	B-award.ceremony
+NN	O	I-award.ceremony
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.name	B-movie.name
+NNS	I-movie.name	I-movie.name
+:	I-movie.name	I-movie.name
+DT	I-movie.name	O
+JJ	I-movie.name	O
+NN	I-movie.name	B-award.ceremony
+NN	O	I-award.ceremony
+		
+NN	B-movie.name	O
+NNS	I-movie.name	O
+NN	I-movie.name	B-rating.name
+CD	I-movie.name	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+NN	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+		
+NN	O	O
+NN	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	O	B-movie.name
+VVN	O	O
+TO	O	O
+VV	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+VV	O	O
+NNS	O	O
+IN	O	B-rating.name
+IN	B-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+NNS	O	O
+IN	O	B-rating.name
+IN	B-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+IN	B-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+RB	O	O
+IN	B-movie.name	O
+JJ	I-movie.name	B-movie.release_date
+NN	O	O
+		
+VV	O	O
+RP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	B-movie.name	B-movie.name
+RB	I-movie.name	I-movie.name
+		
+NN	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	B-movie.name	I-rating.name
+RB	I-movie.name	O
+		
+NN	O	O
+IN	B-movie.name	O
+JJ	I-movie.name	B-person.name
+NNS	O	I-person.name
+		
+WRB	O	O
+MD	O	B-rating.name
+NNS	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.language	I-rating.name
+		
+NN	O	O
+NN	B-actor.name	B-producer.name
+NNS	I-actor.name	I-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+WDT	O	O
+VHP	O	O
+DT	O	O
+NN	O	O
+NN	B-actor.name	B-movie.location
+NN	I-actor.name	I-movie.location
+		
+NN	B-actor.name	O
+NN	I-actor.name	B-producer.name
+NNS	O	I-producer.name
+		
+WP	O	O
+NNS	O	O
+VVD	O	B-producer.name
+JJ	B-director.name	I-producer.name
+NN	I-director.name	I-producer.name
+JJ	O	I-producer.name
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NNS	B-movie.subject	B-movie.name
+		
+VV	O	O
+DT	O	O
+NN	B-actor.name	B-character.name
+NN	I-actor.name	O
+NNS	O	B-movie.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	O	I-movie.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	O	I-movie.name
+		
+VBZ	O	O
+RB	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-producer.name	I-rating.name
+NNS	I-producer.name	I-rating.name
+		
+VV	O	O
+RP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+VVG	I-movie.subject	I-movie.name
+IN	O	I-movie.name
+PP	O	O
+		
+VV	O	O
+RB	O	O
+VVN	O	O
+NNS	B-movie.genre	B-movie.release_date
+IN	O	O
+NN	B-country.name	B-movie.subject
+		
+NP	O	O
+NN	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NNS	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+RB	O	O
+		
+VV	O	O
+PP	O	O
+JJR	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	O
+NN	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NNS	O	B-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.language	I-movie.subject
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.language	I-rating.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+VVN	O	O
+CC	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+NN	B-actor.name	O
+NN	I-actor.name	B-rating.name
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+NN	B-actor.name	B-rating.name
+NN	I-actor.name	I-rating.name
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+		
+WDT	O	O
+NNS	O	O
+VVP	O	B-character.name
+NN	B-actor.name	O
+NN	I-actor.name	B-movie.name
+		
+WDT	O	O
+NNS	O	B-rating.name
+VVP	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+VVP	O	I-rating.name
+IN	O	I-rating.name
+		
+VV	O	O
+NN	B-movie.name	B-rating.name
+IN	I-movie.name	O
+NN	I-movie.name	B-rating.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	O	I-movie.name
+		
+VVG	O	O
+IN	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	O	B-character.name
+DT	B-movie.name	O
+NN	I-movie.name	B-movie.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+RB	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+PDT	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	B-rating.name	B-person.name
+NNS	O	I-person.name
+		
+NN	B-rating.name	B-movie.subject
+VVD	O	O
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NNS	O	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	B-movie.release_date
+NN	O	O
+IN	O	O
+NN	B-rating.name	B-movie.release_date
+VVN	O	O
+NNS	O	O
+TO	O	O
+VV	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NN	B-rating.name	I-movie.name
+VVN	O	O
+NNS	O	O
+		
+VV	O	O
+NNS	O	O
+IN	O	O
+DT	O	O
+NN	B-rating.name	B-movie.location
+NN	O	I-movie.location
+		
+WP	O	O
+NNS	O	O
+VBP	O	O
+JJ	B-rating.name	B-movie.description
+		
+NNS	O	O
+IN	O	O
+NN	B-director.name	B-person.name
+NN	I-director.name	I-person.name
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+NN	B-director.name	B-rating.name
+NN	I-director.name	I-rating.name
+VV	O	I-rating.name
+		
+VV	O	O
+NN	B-director.name	B-producer.name
+NNS	O	I-producer.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	B-movie.release_date
+JJ	O	O
+NNS	O	B-movie.subject
+VVG	O	I-movie.subject
+NN	B-actor.name	I-movie.subject
+NNS	I-actor.name	I-movie.subject
+		
+NNS	O	O
+VVP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+JJ	O	B-actor.nationality
+NNS	O	O
+VVN	O	B-actor.name
+NN	B-rating.name	I-actor.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+JJ	O	B-actor.nationality
+NNS	O	O
+VVN	O	B-actor.name
+NN	B-rating.name	I-actor.name
+		
+NN	B-producer.name	O
+RB	I-producer.name	O
+VVD	O	O
+WP	O	O
+JJ	O	B-movie.release_date
+NNS	O	O
+		
+WP	O	O
+VBZ	O	O
+NP	B-producer.name	B-character.name
+POS	O	I-character.name
+JJS	O	I-character.name
+NN	O	I-character.name
+		
+UH	O	O
+VV	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-director.name	I-movie.name
+NNS	I-director.name	I-movie.name
+		
+VBP	O	O
+RB	O	O
+DT	O	O
+JJ	O	B-movie.release_date
+NNS	O	O
+WDT	O	O
+VBP	O	O
+NN	B-movie.language	B-movie.location
+NN	O	I-movie.location
+		
+WP	O	O
+NNS	O	B-movie.subject
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	B-character.name
+VBN	O	O
+IN	O	B-movie.name
+RB	O	I-movie.name
+		
+NN	O	O
+IN	O	O
+JJ	O	B-person.name
+NNS	O	I-person.name
+		
+NN	O	B-movie.subject
+IN	O	I-movie.subject
+IN	B-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+		
+VV	O	O
+IN	B-movie.name	O
+RB	I-movie.name	B-person.name
+JJ	O	I-person.name
+		
+NN	O	O
+IN	O	O
+NN	O	B-character.name
+IN	O	O
+NNS	B-producer.name	B-movie.name
+		
+JJ	B-producer.name	B-person.name
+NN	O	I-person.name
+		
+VV	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-producer.name	I-rating.name
+NNS	I-producer.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+NN	B-person.name	B-person.name
+JJ	I-person.name	I-person.name
+		
+VV	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NNS	B-person.name	I-rating.name
+NN	I-person.name	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-person.name	I-rating.name
+NN	I-person.name	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+NN	O	B-actor.name
+NNS	O	I-actor.name
+RB	O	O
+MD	B-person.name	B-actor.name
+VV	I-person.name	I-actor.name
+		
+MD	B-person.name	O
+NP	I-person.name	B-producer.name
+NN	O	I-producer.name
+		
+NN	O	B-movie.subject
+MD	B-person.name	O
+VV	I-person.name	O
+NN	O	B-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-person.name	I-rating.name
+NN	I-person.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-person.name	I-rating.name
+NN	I-person.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+MD	B-person.name	O
+NN	I-person.name	B-movie.release_date
+POS	O	O
+NN	O	B-movie.subject
+		
+VV	O	O
+NN	O	O
+IN	O	O
+NP	B-person.name	B-movie.location
+NN	I-person.name	I-movie.location
+		
+VVZ	O	O
+NP	B-person.name	O
+NP	I-person.name	B-character.name
+VHP	O	O
+DT	O	B-movie.name
+JJ	O	B-director.name
+NN	O	I-director.name
+		
+WRB	O	O
+MD	O	O
+NNS	O	B-character.name
+VV	O	O
+NN	O	O
+IN	O	O
+NP	B-person.name	B-movie.location
+NN	I-person.name	I-movie.location
+		
+NN	B-person.name	O
+NN	I-person.name	B-producer.name
+NN	O	I-producer.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NP	B-person.name	B-character.name
+POS	O	O
+JJ	O	B-movie.name
+NN	O	I-movie.name
+		
+JJ	B-person.name	B-producer.name
+NN	I-person.name	I-producer.name
+NN	O	I-producer.name
+		
+IN	O	O
+JJ	B-person.name	B-producer.name
+NN	I-person.name	I-producer.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-person.name	I-rating.name
+NN	I-person.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+JJ	B-person.name	B-person.name
+NN	I-person.name	I-person.name
+		
+VV	O	O
+PP	O	O
+NN	B-person.name	B-person.name
+NN	I-person.name	I-person.name
+		
+NNS	O	O
+VVP	O	O
+JJR	O	O
+NN	O	B-movie.release_date
+IN	O	O
+NP	B-person.name	O
+NP	I-person.name	B-character.name
+POS	O	O
+NN	O	B-movie.name
+		
+DT	O	O
+NN	O	B-producer.name
+NN	B-person.name	I-producer.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+NN	O	B-person.name
+NN	B-movie.name	I-person.name
+		
+WP	O	O
+VVZ	O	O
+NN	B-movie.name	B-rating.name
+		
+NN	O	B-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+NNS	B-movie.name	I-movie.subject
+		
+WP	O	O
+NN	O	B-country.name
+VVD	O	O
+FW	B-movie.name	B-movie.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+NN	O	B-movie.name
+IN	O	I-movie.name
+FW	B-movie.name	I-movie.name
+		
+WP	O	O
+VVZ	O	O
+NNS	B-movie.name	O
+		
+MD	O	O
+PP	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+NNS	B-movie.name	B-movie.location
+		
+NN	O	B-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.name	I-movie.subject
+		
+WP	O	O
+VVD	O	O
+DT	O	B-character.name
+NN	O	O
+NN	B-movie.name	B-movie.name
+NNS	I-movie.name	I-movie.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+NN	B-movie.name	B-person.name
+NN	O	I-person.name
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+WP	O	O
+VVD	O	O
+DT	O	O
+NN	O	B-movie.location
+NN	B-movie.name	I-movie.location
+		
+WP	O	O
+VVD	O	O
+DT	O	B-character.name
+NN	O	O
+NN	B-movie.name	B-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+NN	B-movie.name	B-character.name
+POS	O	O
+NN	O	B-movie.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+WP	O	O
+VVD	O	O
+DT	O	B-character.name
+NN	O	O
+PP$	B-movie.name	O
+JJ	I-movie.name	B-actor.nationality
+JJ	I-movie.name	O
+NN	I-movie.name	B-actor.name
+NN	I-movie.name	I-actor.name
+		
+WP	O	O
+VVD	O	B-producer.name
+JJ	B-movie.name	I-producer.name
+NN	I-movie.name	I-producer.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+DT	B-movie.name	O
+NN	I-movie.name	B-movie.subject
+VBD	O	O
+VVN	O	O
+IN	O	O
+		
+WP	O	O
+VVD	O	O
+DT	O	B-character.name
+NN	O	O
+NN	B-movie.name	B-movie.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+NN	I-movie.name	I-producer.name
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	B-character.name
+CC	I-movie.name	O
+PP	I-movie.name	B-movie.name
+		
+WP	O	O
+VVD	O	O
+JJ	B-movie.name	B-movie.language
+PP	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+WDT	O	O
+VVD	O	O
+DT	O	O
+NN	O	B-movie.location
+NN	B-movie.name	I-movie.location
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+DT	O	O
+NN	O	B-movie.location
+NN	B-movie.name	I-movie.location
+		
+VV	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+WDT	O	O
+VVD	O	O
+NN	B-movie.name	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+DT	O	B-movie.release_date
+NN	O	O
+WDT	O	O
+VVD	O	O
+NN	B-movie.name	B-movie.location
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+NN	B-movie.name	B-movie.name
+WP	I-movie.name	O
+VBZ	I-movie.name	O
+VVG	I-movie.name	O
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+NNS	I-movie.name	I-producer.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+NN	B-movie.name	B-movie.name
+RB	I-movie.name	I-movie.name
+		
+UH	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+VV	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-person.name
+NN	O	I-person.name
+		
+WRB	O	O
+JJ	O	O
+NN	O	B-character.name
+VVD	O	O
+RB	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+VV	O	O
+		
+NNS	O	O
+IN	O	O
+JJ	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+RB	B-movie.name	O
+NN	I-movie.name	B-movie.release_date
+VV	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+DT	B-movie.name	O
+NNS	I-movie.name	B-movie.release_date
+VVP	O	O
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+DT	B-movie.name	I-movie.name
+NNS	I-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+DT	B-movie.name	B-rating.name
+JJ	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+VV	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+JJ	O	B-actor.nationality
+NN	B-actor.name	O
+NN	I-actor.name	B-actor.name
+NN	O	I-actor.name
+RB	O	O
+		
+WP	O	O
+VVD	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+NN	B-character.name	B-character.name
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+WP	O	O
+VVD	O	O
+NN	B-character.name	B-rating.name
+NN	I-character.name	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VVZ	O	O
+IN	O	B-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	O
+CC	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	B-character.name	O
+NN	O	O
+IN	O	O
+NP	B-movie.name	O
+NN	I-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+NN	O	B-movie.subject
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NP	B-movie.name	O
+NN	I-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NN	O	O
+NNS	O	O
+IN	O	O
+NN	B-movie.name	B-movie.release_date
+IN	I-movie.name	O
+DT	I-movie.name	O
+VVZ	I-movie.name	O
+DT	I-movie.name	O
+CD	I-movie.name	B-movie.release_date
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	O
+NN	B-character.name	B-character.name
+IN	O	O
+NN	B-movie.name	B-movie.name
+		
+WP	O	O
+VVD	O	O
+NN	B-character.name	B-character.name
+IN	O	O
+NP	B-director.name	B-movie.name
+POS	O	I-movie.name
+NN	B-movie.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-rating.name
+NNS	B-character.name	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+RB	O	B-movie.name
+WP	O	O
+VBD	O	O
+IN	O	O
+DT	B-movie.name	B-movie.release_date
+NNS	I-movie.name	O
+		
+WDT	O	O
+NN	O	B-rating.name
+VVD	O	O
+NN	B-character.name	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+WP	O	O
+VVD	O	O
+NN	B-character.name	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	O	I-rating.name
+NN	B-director.name	I-rating.name
+NN	I-director.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	B-movie.release_date
+WP	O	O
+VVD	O	O
+NN	B-character.name	O
+IN	O	O
+NP	B-director.name	B-character.name
+POS	O	O
+NN	B-movie.name	B-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	B-movie.release_date
+WP	O	O
+VVD	O	O
+NNS	B-character.name	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+VVP	O	I-rating.name
+CD	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+TO	I-movie.name	I-rating.name
+VV	I-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+DT	O	I-movie.name
+NN	B-character.name	I-movie.name
+IN	O	O
+NP	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+TO	I-movie.name	I-rating.name
+VV	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	B-movie.release_date
+WP	O	O
+VVD	O	O
+NN	B-character.name	B-rating.name
+NN	I-character.name	I-rating.name
+IN	O	I-rating.name
+TO	B-movie.name	I-rating.name
+VV	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+NN	O	B-movie.release_date
+WP	O	O
+VBD	O	O
+DT	O	O
+NN	B-character.name	B-movie.release_date
+CC	I-character.name	O
+DT	I-character.name	O
+NN	I-character.name	B-rating.name
+IN	O	I-rating.name
+TO	B-movie.name	I-rating.name
+VV	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+UH	O	O
+VV	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+VVG	O	O
+DT	O	O
+NN	B-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NN	B-movie.name	I-movie.name
+		
+NN	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	O	I-rating.name
+VVP	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VBD	O	O
+VVN	O	O
+IN	O	O
+VVG	O	O
+DT	O	O
+JJ	O	B-actor.nationality
+VV	B-movie.name	O
+NN	I-movie.name	B-actor.name
+NN	O	I-actor.name
+		
+WRB	O	O
+RB	O	O
+VVZ	O	O
+PP	O	O
+VVD	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	B-movie.location
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+PP	O	O
+VVD	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	B-movie.location
+		
+WRB	O	O
+JJ	O	O
+NN	O	B-character.name
+VBD	O	O
+VVN	O	B-movie.name
+TO	O	I-movie.name
+VV	O	O
+NN	B-movie.name	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NNS	B-movie.name	B-rating.name
+IN	I-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VBD	O	O
+PP	O	O
+TO	O	O
+VV	O	O
+NN	B-movie.name	B-movie.location
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+TO	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+PP	O	O
+VVD	O	O
+TO	O	O
+VV	O	O
+DT	B-movie.name	O
+NN	I-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NNS	B-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+VVG	B-movie.name	O
+NN	I-movie.name	B-rating.name
+IN	O	I-rating.name
+JJ	O	I-rating.name
+		
+NNS	B-producer.name	B-movie.subject
+		
+WDT	O	O
+NN	O	B-rating.name
+VVD	O	O
+NN	B-movie.name	B-rating.name
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+FW	B-movie.name	B-movie.name
+FW	I-movie.name	I-movie.name
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+FW	B-movie.name	B-movie.name
+FW	I-movie.name	I-movie.name
+IN	O	I-movie.name
+		
+WRB	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	B-movie.name	O
+IN	I-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+VVD	O	O
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+NN	B-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+NN	O	B-movie.subject
+VVZ	O	I-movie.subject
+DT	O	I-movie.subject
+NN	O	I-movie.subject
+NN	B-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+VVZ	O	I-movie.subject
+IN	O	I-movie.subject
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+DT	O	O
+JJ	B-movie.name	B-movie.release_date
+NN	I-movie.name	O
+VVD	O	O
+IN	O	O
+		
+WRB	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+NN	B-movie.name	B-movie.name
+SENT	I-movie.name	I-movie.name
+VVN	O	O
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NNS	O	O
+IN	O	O
+DT	O	B-character.name
+NN	O	O
+NN	B-movie.name	B-movie.name
+SENT	I-movie.name	I-movie.name
+		
+NN	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NNS	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+VVZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NNS	B-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+NN	O	O
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+NNS	O	I-rating.name
+		
+WRB	O	O
+MD	O	O
+DT	O	B-character.name
+NN	O	O
+JJ	B-movie.name	B-movie.name
+UH	I-movie.name	I-movie.name
+PP$	I-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+VB	O	O
+VVN	O	O
+		
+WRB	O	O
+VBD	O	O
+DT	O	B-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+NN	O	I-rating.name
+VVD	O	O
+		
+NNS	O	O
+JJ	B-movie.name	B-producer.name
+NNS	I-movie.name	I-producer.name
+NN	O	I-producer.name
+NN	O	I-producer.name
+		
+WRB	O	O
+MD	O	B-actor.name
+RB	B-movie.name	I-actor.name
+VV	O	O
+RP	O	O
+		
+WRB	O	O
+VBD	O	O
+NN	B-movie.name	B-character.name
+VB	O	O
+VVN	O	B-movie.name
+		
+WRB	O	O
+VBD	O	O
+DT	B-movie.name	B-character.name
+NN	I-movie.name	O
+IN	I-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+VVN	O	O
+		
+WRB	O	O
+MD	O	O
+NN	B-movie.name	B-character.name
+VVG	I-movie.name	O
+NN	I-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+CD	I-movie.name	I-movie.name
+VB	O	O
+VVN	O	O
+		
+WP	O	O
+VVD	O	O
+VVP	B-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+JJ	B-movie.name	B-character.name
+JJ	I-movie.name	O
+CC	I-movie.name	B-movie.name
+JJ	I-movie.name	I-movie.name
+		
+NP	O	O
+MD	O	O
+NP	O	B-character.name
+VV	O	O
+WP	O	O
+VVD	O	O
+NN	B-movie.name	B-movie.release_date
+NNS	I-movie.name	O
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+TO	B-movie.name	I-rating.name
+VV	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+NN	O	B-rating.name
+VBD	O	O
+NN	B-movie.name	B-rating.name
+VVN	O	O
+IN	O	O
+		
+WP	O	O
+NN	O	B-rating.name
+VBZ	O	O
+DT	O	B-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	O	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+NN	B-movie.name	B-character.name
+RB	I-movie.name	O
+POS	O	O
+JJ	O	B-director.name
+NN	O	I-director.name
+		
+WP	O	O
+NN	O	B-movie.release_date
+VBZ	O	O
+NNS	B-movie.name	B-movie.subject
+CC	I-movie.name	I-movie.subject
+VVZ	I-movie.name	I-movie.subject
+IN	O	I-movie.subject
+		
+VV	O	O
+PP	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-movie.genre	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-rating.name	I-rating.name
+CD	I-rating.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	B-rating.name
+NNS	B-movie.genre	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+NN	I-movie.release_date	I-rating.name
+		
+VBP	O	O
+RB	O	O
+DT	O	B-rating.name
+NNS	B-movie.genre	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.subject	I-rating.name
+NNS	I-movie.subject	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+CD	B-movie.release_date	I-movie.name
+		
+VV	O	O
+DT	O	B-movie.subject
+NNS	B-movie.genre	O
+		
+NN	O	O
+JJ	B-movie.genre	B-producer.name
+NNS	I-movie.genre	I-producer.name
+		
+NN	B-movie.genre	B-movie.name
+		
+VV	O	O
+PP	O	B-movie.subject
+NNS	B-movie.genre	O
+		
+NN	O	O
+NN	B-movie.subject	B-producer.name
+NNS	B-movie.genre	I-producer.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NP	B-actor.name	O
+NP	I-actor.name	B-movie.name
+NN	B-movie.type	I-movie.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NNS	B-movie.type	I-rating.name
+IN	O	I-rating.name
+JJ	B-director.name	I-rating.name
+NN	I-director.name	I-rating.name
+		
+NNS	B-movie.type	O
+VVN	O	O
+TO	O	O
+JJ	B-director.name	B-director.name
+NN	I-director.name	I-director.name
+		
+JJ	O	B-movie.subject
+VVN	O	O
+NNS	B-movie.type	O
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NN	B-country.name	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+DT	O	O
+JJ	B-country.name	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+		
+WP	O	O
+NNS	O	B-movie.subject
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-country.name	O
+DT	B-movie.release_date	B-movie.location
+NN	I-movie.release_date	I-movie.location
+		
+VV	O	O
+NN	B-country.name	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.language	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-country.name	I-rating.name
+		
+VV	O	O
+NNS	O	O
+IN	O	B-rating.name
+NN	B-country.name	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.subject	I-rating.name
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	B-director.name	I-rating.name
+JJ	I-director.name	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+JJ	O	O
+NNS	O	B-character.name
+VHZ	O	O
+NN	B-director.name	B-movie.name
+JJ	I-director.name	I-movie.name
+VVN	O	O
+		
+VV	O	O
+RP	O	O
+DT	O	B-character.name
+NNS	O	O
+NN	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+VVD	O	O
+		
+WP	O	O
+NNS	O	O
+VHZ	O	O
+NN	B-director.name	O
+NN	I-director.name	B-movie.release_date
+VVD	O	O
+		
+NNS	O	O
+IN	O	O
+JJ	B-director.name	B-person.name
+NN	I-director.name	I-person.name
+		
+VVD	O	O
+NN	B-director.name	B-rating.name
+NN	I-director.name	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+		
+WP	O	O
+NNS	O	O
+VVD	O	O
+NN	B-director.name	B-rating.name
+NNS	I-director.name	I-rating.name
+VVP	O	I-rating.name
+		
+NNS	O	O
+IN	O	O
+NN	B-director.name	B-rating.name
+NNS	I-director.name	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-director.name	I-movie.name
+NNS	I-director.name	I-movie.name
+		
+NN	B-director.name	O
+NN	I-director.name	B-movie.subject
+VHZ	O	O
+VVN	O	O
+WP	O	O
+NNS	O	B-movie.location
+		
+UH	O	O
+VV	O	O
+DT	O	B-character.name
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+NN	B-director.name	O
+NNS	I-director.name	B-movie.subject
+VVD	O	O
+WP	O	O
+NN	O	B-rating.name
+		
+VV	O	O
+NN	B-movie.genre	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	B-movie.genre	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+NN	I-movie.release_date	I-rating.name
+		
+JJ	B-movie.genre	O
+NN	B-rating.name	B-rating.name
+CD	I-rating.name	I-rating.name
+NNS	O	I-rating.name
+		
+NN	B-movie.genre	B-movie.subject
+NNS	O	O
+		
+NP	O	O
+IN	O	O
+NN	B-movie.genre	B-person.name
+NNS	O	I-person.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-movie.release_date	I-movie.name
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-movie.release_date	I-movie.name
+		
+VV	O	O
+RP	O	O
+DT	O	B-character.name
+NNS	O	O
+VVG	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.release_date	I-movie.name
+		
+VV	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+		
+RBS	O	O
+JJ	O	B-producer.name
+NN	B-movie.subject	I-producer.name
+NNS	O	I-producer.name
+		
+NN	O	O
+IN	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.language	B-movie.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+WDT	O	O
+VBP	O	O
+IN	O	O
+NN	B-movie.language	B-movie.location
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+VVN	O	O
+IN	O	O
+NN	B-movie.language	B-movie.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+WDT	O	O
+VBP	O	O
+IN	O	O
+NN	B-movie.language	B-movie.location
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.language	O
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NNS	B-movie.language	I-rating.name
+		
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.language	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVG	O	B-movie.release_date
+DT	O	O
+JJ	B-movie.language	B-movie.subject
+NN	O	I-movie.subject
+		
+NNS	O	O
+VVP	O	O
+NNS	O	B-character.name
+IN	O	O
+NNS	B-movie.language	B-movie.name
+		
+VV	O	O
+NNS	O	O
+IN	O	B-rating.name
+NN	B-movie.language	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+WDT	O	O
+VBD	O	O
+VVN	O	B-country.name
+IN	O	O
+NN	B-movie.language	B-movie.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NN	B-movie.language	O
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.language	B-movie.name
+		
+NN	O	O
+IN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NN	O	I-rating.name
+		
+NNS	O	B-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.language	I-movie.subject
+		
+NNS	O	B-movie.subject
+VBP	O	O
+VVG	O	O
+IN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.language	I-rating.name
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.language	I-rating.name
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.language	O
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	B-movie.release_date
+NNS	B-producer.name	O
+JJ	I-producer.name	B-movie.subject
+		
+WP	O	O
+JJ	O	B-producer.name
+NNS	O	I-producer.name
+NNS	B-producer.name	I-producer.name
+NN	I-producer.name	I-producer.name
+NN	O	I-producer.name
+		
+VHZ	O	O
+NN	B-producer.name	O
+NN	I-producer.name	B-character.name
+VVD	O	O
+NNS	O	B-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+VVN	O	O
+IN	O	O
+NN	B-producer.name	O
+NN	I-producer.name	B-movie.location
+NN	I-producer.name	I-movie.location
+		
+VV	O	O
+DT	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+CD	B-producer.name	B-movie.release_date
+NNS	I-producer.name	O
+		
+NN	B-producer.name	O
+SYM	O	B-rating.name
+FW	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+PP$	O	O
+NNS	O	O
+IN	O	O
+CD	B-movie.release_date	B-movie.release_date
+CD	I-movie.release_date	I-movie.release_date
+CC	I-movie.release_date	I-movie.release_date
+CD	I-movie.release_date	I-movie.release_date
+TO	I-movie.release_date	O
+CD	I-movie.release_date	B-movie.release_date
+CD	I-movie.release_date	I-movie.release_date
+CC	I-movie.release_date	I-movie.release_date
+NN	I-movie.release_date	I-movie.release_date
+		
+JJ	B-producer.name	O
+NN	I-producer.name	B-rating.name
+NN	I-producer.name	I-rating.name
+NNS	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+		
+VV	O	O
+PP	O	O
+NN	B-rating.name	O
+CC	I-rating.name	O
+CD	I-rating.name	B-movie.release_date
+VVN	O	O
+NNS	O	B-movie.subject
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+RB	B-rating.name	B-movie.name
+VVN	I-rating.name	B-director.name
+NN	O	I-director.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NNS	O	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-rating.name	I-rating.name
+CD	I-rating.name	I-rating.name
+NN	B-movie.genre	I-rating.name
+NNS	O	I-rating.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	B-rating.name	I-rating.name
+CD	I-rating.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+JJ	O	O
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-rating.name	I-movie.name
+VVN	O	O
+NNS	O	O
+WDT	O	O
+VVD	O	O
+RP	O	O
+IN	O	B-rating.name
+DT	B-movie.release_date	I-rating.name
+JJ	I-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+NNS	I-movie.release_date	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	O
+VVN	O	O
+NN	B-rating.name	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-producer.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+WDT	O	O
+VBP	O	O
+JJ	B-rating.name	B-movie.description
+		
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-actor.name	I-rating.name
+NN	I-actor.name	I-rating.name
+		
+WDT	O	O
+NNS	O	B-movie.subject
+VHZ	O	O
+NN	B-actor.name	O
+NN	I-actor.name	O
+VVD	O	O
+DT	B-movie.release_date	B-movie.location
+NN	I-movie.release_date	I-movie.location
+		
+WP	O	O
+NN	O	O
+VBD	O	O
+VVG	B-actor.name	B-movie.release_date
+DT	O	O
+JJ	B-character.name	B-movie.subject
+NN	I-character.name	I-movie.subject
+		
+VV	O	O
+RP	O	O
+NNS	O	B-character.name
+VVG	O	O
+DT	O	B-movie.name
+NN	B-actor.type	I-movie.name
+NN	B-actor.name	I-movie.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	O
+VVG	O	O
+DT	O	O
+NN	B-actor.type	B-movie.location
+NN	B-actor.name	I-movie.location
+		
+NN	O	O
+IN	O	O
+NNS	O	B-character.name
+IN	O	O
+NP	B-actor.name	B-movie.name
+NP	I-actor.name	B-director.name
+NN	I-actor.name	I-director.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+WDT	O	O
+VHP	O	O
+JJ	B-actor.name	B-movie.subject
+NNS	I-actor.name	I-movie.subject
+CC	O	I-movie.subject
+NN	B-actor.name	I-movie.subject
+NN	I-actor.name	I-movie.subject
+IN	O	I-movie.subject
+PP	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+IN/that	O	O
+JJ	O	B-movie.release_date
+NN	B-actor.name	O
+NNS	I-actor.name	O
+VVN	O	O
+IN	O	B-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	O
+VVG	B-movie.subject	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-actor.name	I-rating.name
+NNS	I-actor.name	I-rating.name
+		
+NNS	O	O
+IN	O	O
+NN	B-actor.name	B-person.name
+NN	I-actor.name	I-person.name
+		
+NN	O	O
+IN/that	O	O
+NN	B-actor.name	B-character.name
+NNS	I-actor.name	O
+CC	O	B-movie.name
+NN	B-actor.name	I-movie.name
+NN	I-actor.name	I-movie.name
+VVN	O	O
+IN	O	O
+RB	O	O
+		
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+		
+NN	B-movie.subject	B-movie.subject
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NNS	O	O
+IN	O	B-movie.name
+NN	B-movie.subject	I-movie.name
+		
+WP	O	O
+NNS	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.subject	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+NNS	O	B-movie.release_date
+IN	O	O
+NN	B-movie.subject	B-movie.subject
+		
+VV	O	O
+NNS	O	B-movie.subject
+IN	O	O
+NNS	B-movie.subject	O
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+IN	O	O
+NNS	B-movie.subject	B-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.subject	I-rating.name
+NNS	I-movie.subject	I-rating.name
+		
+NN	O	O
+IN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.subject	I-rating.name
+NNS	I-movie.subject	I-rating.name
+		
+WP	O	O
+NNS	O	O
+VVP	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+CC	I-movie.subject	I-movie.name
+NN	I-movie.subject	I-movie.name
+POS	I-movie.subject	O
+NNS	I-movie.subject	O
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.subject	I-rating.name
+NNS	I-movie.subject	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.subject	I-rating.name
+NNS	I-movie.subject	I-rating.name
+		
+NN	O	O
+IN	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-movie.subject	I-rating.name
+NNS	O	I-rating.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NN	B-movie.subject	O
+NN	I-movie.subject	B-movie.name
+NNS	O	I-movie.name
+NP	O	I-movie.name
+MD	O	O
+VV	O	O
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+VVG	O	O
+NN	B-movie.subject	B-movie.name
+NN	I-movie.subject	I-movie.name
+		
+NN	B-movie.subject	O
+NNS	O	B-movie.subject
+VVP	O	O
+		
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.subject	I-rating.name
+IN	O	I-rating.name
+PP	O	O
+		
+VV	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.subject	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.subject	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.subject	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+		
+VV	O	O
+NNS	O	O
+IN	O	B-rating.name
+NN	B-movie.subject	I-rating.name
+NN	I-movie.subject	I-rating.name
+CD	I-movie.subject	I-rating.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NN	B-movie.subject	O
+NN	I-movie.subject	B-movie.name
+NNS	O	I-movie.name
+		
+NN	O	B-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.subject	I-movie.subject
+NNS	O	I-movie.subject
+		
+VV	O	O
+PP	O	O
+NN	B-movie.name	B-character.name
+IN	O	O
+NN	B-movie.language	B-movie.name
+		
+VBZ	O	O
+RB	B-movie.name	B-country.name
+VVN	O	O
+NN	B-rating.name	B-movie.name
+		
+VV	O	O
+PP	O	O
+TO	O	O
+DT	O	O
+JJ	B-movie.language	O
+NN	O	B-character.name
+IN	O	O
+FW	B-movie.name	B-movie.name
+		
+VV	O	O
+NP	B-movie.name	B-rating.name
+IN	O	O
+NN	B-movie.language	B-rating.name
+		
+VV	O	O
+JJ	B-movie.name	O
+CC	I-movie.name	O
+JJ	I-movie.name	B-actor.nationality
+IN	O	O
+NN	B-movie.language	B-actor.name
+		
+JJ	B-movie.name	O
+NN	I-movie.name	O
+POS	I-movie.name	O
+NN	I-movie.name	O
+NN	B-director.name	B-movie.location
+NN	I-director.name	I-movie.location
+		
+NN	O	B-movie.subject
+IN	O	O
+NN	O	O
+NN	B-movie.name	B-character.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+		
+NN	O	B-movie.subject
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-character.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+VV	O	O
+PP	O	O
+NN	O	B-movie.release_date
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	B-character.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+VV	O	O
+PP	O	O
+NN	O	B-movie.release_date
+IN	O	O
+DT	O	O
+NN	O	O
+NN	B-movie.name	B-character.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+TO	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+VV	O	O
+PP	O	O
+NN	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.language
+RB	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	O
+		
+VBZ	O	O
+CD	B-movie.release_date	B-rating.name
+NN	I-movie.release_date	I-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+JJ	O	B-movie.subject
+NN	B-movie.name	I-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.language	I-movie.subject
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+NNS	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+NN	B-movie.name	I-movie.name
+NNS	I-movie.name	I-movie.name
+:	I-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+CD	I-movie.name	I-movie.name
+:	I-movie.name	I-movie.name
+DT	I-movie.name	I-movie.name
+JJ	I-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+		
+VVD	O	O
+NN	B-director.name	O
+JJ	I-director.name	B-actor.nationality
+NN	O	O
+NN	B-movie.name	B-actor.name
+NNS	I-movie.name	I-actor.name
+		
+VBZ	O	O
+DT	O	O
+NN	O	B-character.name
+NN	B-movie.name	O
+NN	I-movie.name	O
+CD	I-movie.name	O
+VBG	O	B-actor.nationality
+VVN	O	O
+JJ	B-movie.release_date	B-actor.name
+NN	I-movie.release_date	I-actor.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+RP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-country.name	I-rating.name
+NNS	O	I-rating.name
+		
+JJ	B-movie.language	O
+JJ	O	O
+NN	O	B-character.name
+IN	O	O
+NN	B-movie.subject	B-movie.name
+		
+NN	B-movie.language	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+NN	I-movie.release_date	I-rating.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.language	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-producer.name	I-rating.name
+		
+NN	O	O
+NN	O	B-producer.name
+NN	O	I-producer.name
+NNS	B-producer.name	I-producer.name
+		
+JJ	B-producer.name	B-producer.name
+NN	I-producer.name	I-producer.name
+NNS	I-producer.name	I-producer.name
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VH	O	O
+JJR	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-person.name	I-rating.name
+JJ	I-person.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+JJ	B-director.name	I-rating.name
+NN	I-director.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+IN/that	O	O
+NN	O	O
+NN	B-actor.name	B-movie.location
+NN	I-actor.name	I-movie.location
+		
+NP	O	O
+MD	O	O
+VV	O	O
+NN	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+MD	B-actor.name	O
+VV	I-actor.name	O
+		
+WP	O	O
+VVD	O	O
+DT	O	B-character.name
+NN	O	O
+JJ	B-movie.name	B-movie.name
+NNS	I-movie.name	I-movie.name
+		
+NN	B-movie.name	O
+POS	I-movie.name	O
+NN	I-movie.name	B-character.name
+NN	O	O
+NN	O	B-movie.name
+		
+NP	O	B-person.name
+NN	O	I-person.name
+WP	O	O
+VVD	O	O
+NN	B-movie.name	B-award.ceremony
+NNS	I-movie.name	I-award.ceremony
+		
+NP	O	O
+MD	O	O
+NP	O	B-character.name
+VV	O	O
+WP	O	O
+VVD	O	O
+NN	B-movie.name	B-movie.release_date
+NNS	I-movie.name	O
+		
+WP	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+NNS	I-movie.name	I-producer.name
+		
+NN	O	B-movie.subject
+NNS	O	O
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	B-rating.name
+IN	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+JJ	O	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	O	B-movie.release_date
+VV	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+JJ	O	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-rating.name
+NN	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WP	O	O
+NN	O	B-movie.subject
+IN	O	O
+NN	O	O
+VVD	O	O
+NN	B-movie.name	B-rating.name
+NN	I-movie.name	I-rating.name
+VV	O	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NP	B-movie.name	B-movie.name
+POS	O	I-movie.name
+NN	O	I-movie.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+NNS	B-movie.name	B-movie.name
+		
+NN	O	B-person.name
+NN	B-movie.name	I-person.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	B-rating.name
+JJ	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VVD	O	B-producer.name
+NN	B-movie.name	I-producer.name
+JJ	O	I-producer.name
+		
+NP	O	O
+RB	O	O
+VVD	O	O
+NN	B-movie.name	B-movie.release_date
+VV	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	B-character.name
+VVD	O	O
+NN	B-movie.name	B-movie.name
+CC	I-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+NN	I-movie.name	O
+VV	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	B-character.name
+VVD	O	O
+DT	O	O
+NN	O	B-actor.name
+NN	B-movie.name	I-actor.name
+CC	I-movie.name	O
+NN	I-movie.name	B-actor.name
+NN	I-movie.name	I-actor.name
+VV	O	O
+		
+IN	O	O
+DT	O	O
+NN	O	B-actor.name
+NN	B-movie.name	I-actor.name
+CC	I-movie.name	O
+NN	I-movie.name	B-actor.name
+NN	I-movie.name	I-actor.name
+WRB	O	O
+JJ	O	B-actor.name
+NN	O	I-actor.name
+VVD	O	O
+DT	O	O
+NN	O	O
+NN	O	B-movie.location
+NN	O	I-movie.location
+		
+WRB	O	O
+JJ	O	O
+NN	O	B-character.name
+VVD	O	O
+NN	B-movie.name	B-movie.name
+VV	O	I-movie.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+WP	O	O
+DT	O	O
+NN	O	B-movie.release_date
+IN	O	O
+NNS	B-movie.name	B-movie.subject
+VBD	O	O
+		
+WRB	O	O
+RB	O	O
+VBD	O	O
+VVN	O	O
+IN	O	B-movie.release_date
+NN	B-movie.name	O
+		
+WP	O	O
+VBD	O	O
+DT	O	O
+JJ	O	B-movie.release_date
+NN	O	O
+VVD	O	O
+IN	O	O
+NN	B-movie.name	B-movie.release_date
+NNS	I-movie.name	O
+IN	O	O
+PP$	O	O
+JJ	O	B-movie.release_date
+NN	O	O
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+WRB	O	O
+JJ	O	B-actor.nationality
+NN	O	O
+NN	B-movie.name	B-actor.name
+NN	I-movie.name	I-actor.name
+VVD	O	O
+		
+WRB	O	O
+JJ	O	O
+NN	O	B-character.name
+VVD	O	O
+JJ	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+VV	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+NN	B-movie.name	B-character.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+RB	O	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+IN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VBZ	O	O
+RB	B-movie.name	O
+RB	I-movie.name	B-country.name
+IN	O	O
+NN	O	B-movie.name
+		
+NN	O	B-movie.subject
+NNS	O	O
+		
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+WDT	O	O
+VVZ	O	O
+VV	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+		
+WP	O	O
+VBZ	O	O
+JJ	B-person.name	B-character.name
+NN	I-person.name	O
+RB	O	B-movie.name
+TO	O	I-movie.name
+		
+NP	B-country.name	O
+VBP	O	O
+PDT	O	O
+PP$	O	O
+NNS	O	O
+IN	O	B-movie.release_date
+PP$	O	O
+JJ	O	B-movie.subject
+NN	O	I-movie.subject
+CC	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.language	I-movie.subject
+		
+WP	O	O
+VBZ	O	O
+VVG	O	B-movie.name
+RB	O	I-movie.name
+		
+WRB	O	O
+MD	O	O
+NNS	O	B-character.name
+VV	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+		
+NP	O	O
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+DT	O	B-character.name
+VBZ	O	O
+DT	O	B-movie.name
+RB	O	I-movie.name
+JJ	B-movie.genre	I-movie.name
+		
+WRB	O	O
+TO	O	O
+VV	O	O
+JJ	B-movie.name	B-director.name
+NN	I-movie.name	I-director.name
+		
+MD	O	O
+NP	O	O
+NN	O	B-character.name
+VVG	B-movie.name	O
+NN	I-movie.name	B-movie.name
+IN	O	I-movie.name
+NN	O	I-movie.name
+		
+NN	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+VBZ	O	I-movie.name
+VVN	O	O
+IN	O	O
+WP	O	O
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+WRB	O	O
+PP	O	O
+VVP	O	O
+JJ	B-movie.name	B-movie.release_date
+NN	I-movie.name	O
+		
+IN	O	O
+NN	O	B-rating.name
+		
+NNS	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+VV	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+		
+VV	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+WDT	O	O
+NN	O	B-movie.release_date
+VVD	O	O
+DT	O	O
+JJS	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+CD	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+NNS	O	O
+VVN	O	O
+IN	O	O
+DT	O	B-movie.release_date
+NNS	O	O
+		
+NNS	O	O
+JJ	O	B-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+DT	O	O
+JJ	O	B-person.name
+NNS	O	I-person.name
+		
+NN	O	B-rating.name
+VVD	O	O
+NN	O	B-rating.name
+		
+VV	O	O
+RP	O	O
+NN	O	B-person.name
+NN	O	I-person.name
+		
+VV	O	O
+JJ	O	B-producer.name
+NN	O	I-producer.name
+		
+VV	O	O
+JJ	O	B-producer.name
+NNS	O	I-producer.name
+		
+WRB	O	O
+MD	O	O
+NP	O	B-character.name
+NN	O	O
+NN	O	B-movie.name
+		
+VV	O	O
+DT	O	B-movie.subject
+NNS	O	O
+		
+NN	O	B-movie.subject
+NNS	O	O
+		
+WRB	O	O
+MD	O	O
+NNS	O	B-character.name
+VV	O	O
+NN	O	B-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+VVZ	O	O
+DT	O	O
+NN	O	O
+SYM	B-rating.name	B-rating.name
+JJ	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+VVD	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+CC	O	O
+NNS	O	O
+TO	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+WRB	O	O
+RB	O	O
+VVD	O	O
+PP	O	O
+VV	O	B-rating.name
+NNS	B-producer.name	I-rating.name
+NN	I-producer.name	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+VBZ	O	O
+DT	O	O
+NN	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-movie.language	I-movie.name
+		
+NN	B-movie.name	O
+CD	I-movie.name	O
+NN	O	B-character.name
+VBD	O	O
+VVN	O	B-movie.name
+WRB	O	O
+		
+WP	O	O
+JJ	O	O
+NNS	O	B-character.name
+VBZ	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+IN	O	I-movie.name
+		
+IN	O	O
+WRB	O	O
+JJ	O	B-character.name
+NNS	O	O
+VVD	O	O
+PP	O	O
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+CD	B-movie.gross_revenue	I-rating.name
+CD	I-movie.gross_revenue	I-rating.name
+NN	I-movie.gross_revenue	I-rating.name
+CD	I-movie.gross_revenue	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+NN	O	O
+NN	O	B-character.name
+VBZ	O	O
+IN	O	O
+VVN	O	O
+NN	B-rating.name	B-movie.release_date
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VVP	O	B-character.name
+PP	O	O
+VVP	O	O
+IN/that	O	O
+NN	B-producer.name	B-movie.release_date
+MD	O	O
+VV	O	O
+TO	O	O
+VV	O	O
+IN	O	O
+NN	O	B-movie.release_date
+POS	O	O
+NN	O	B-movie.subject
+		
+DT	O	O
+NN	O	B-rating.name
+		
+WP	O	O
+VVZ	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+		
+NN	B-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	B-character.name
+NN	I-movie.name	O
+IN	I-movie.name	O
+DT	I-movie.name	O
+NN	I-movie.name	B-movie.release_date
+MD	O	O
+IN	O	O
+VVD	O	O
+JJR	O	B-director.name
+NN	O	I-director.name
+		
+VV	O	O
+PP	O	O
+JJ	B-movie.name	B-character.name
+NN	I-movie.name	O
+NN	O	B-movie.name
+		
+WP	O	O
+RB	O	O
+MD	O	B-person.name
+VH	O	O
+VVN	O	O
+PP$	O	B-movie.name
+NN	O	I-movie.name
+		
+CD	B-movie.gross_revenue	B-movie.release_date
+CD	I-movie.gross_revenue	I-movie.release_date
+NN	I-movie.gross_revenue	I-movie.release_date
+CD	I-movie.gross_revenue	I-movie.release_date
+VBD	O	O
+VVN	O	O
+RP	O	O
+		
+VV	O	O
+DT	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+VV	O	I-rating.name
+		
+WP	O	O
+VVD	O	O
+RP	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+TO	O	O
+VB	O	O
+VVN	O	O
+NN	B-rating.name	B-movie.location
+		
+NP	O	B-producer.name
+NN	O	I-producer.name
+NN	B-person.name	I-producer.name
+NNS	I-person.name	I-producer.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+VVZ	O	O
+IN	O	O
+NN	O	B-movie.location
+		
+VV	O	O
+PP	O	B-movie.subject
+NNS	O	O
+		
+WRB	O	O
+JJ	O	O
+VVP	O	B-character.name
+PP	O	O
+VHP	O	O
+TO	O	O
+VB	O	O
+TO	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+JJ	B-rating.name	I-rating.name
+NN	O	I-rating.name
+		
+VVZ	O	O
+NP	B-country.name	O
+VHP	O	O
+DT	O	B-movie.release_date
+NN	O	O
+TO	O	O
+NN	O	B-character.name
+PP	B-country.name	O
+NN	B-award.ceremony	B-movie.name
+NNS	O	I-movie.name
+		
+NN	O	O
+IN	O	O
+DT	O	B-character.name
+RBS	O	O
+JJ	O	B-movie.name
+NN	O	I-movie.name
+IN	O	I-movie.name
+NN	O	I-movie.name
+		
+NN	B-movie.location	O
+NN	O	B-producer.name
+NNS	O	I-producer.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NNS	B-producer.name	I-movie.name
+		
+WP	O	O
+VVZ	O	O
+DT	O	B-rating.name
+NN	B-rating.name	I-rating.name
+NN	O	I-rating.name
+VVP	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+JJR	O	O
+NN	O	B-movie.release_date
+IN	O	O
+DT	O	O
+NN	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	O	I-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+NN	B-movie.name	B-producer.name
+NN	O	I-producer.name
+		
+NP	B-person.name	B-producer.name
+NP	I-person.name	I-producer.name
+NN	O	I-producer.name
+		
+VVD	O	O
+NP	B-person.name	O
+NP	I-person.name	B-character.name
+VHP	O	O
+DT	O	O
+NN	O	O
+IN	O	B-movie.release_date
+DT	O	O
+NN	O	B-movie.subject
+IN	O	I-movie.subject
+NN	B-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+CC	I-movie.name	I-movie.subject
+DT	I-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+		
+VV	O	O
+PP	O	O
+NN	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+		
+NN	O	O
+TO	O	O
+NN	O	B-person.name
+NN	O	I-person.name
+		
+WRB	O	O
+JJ	O	O
+VVP	O	B-character.name
+PP	O	O
+VHP	O	O
+TO	O	O
+VB	O	O
+TO	O	O
+VV	O	O
+DT	O	O
+VVN	O	O
+NN	B-rating.name	B-movie.location
+NN	O	I-movie.location
+		
+WP	O	O
+VVZ	O	O
+DT	O	B-rating.name
+NN	B-rating.name	I-rating.name
+CD	I-rating.name	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+		
+CD	B-movie.gross_revenue	B-movie.release_date
+CD	I-movie.gross_revenue	I-movie.release_date
+NN	I-movie.gross_revenue	I-movie.release_date
+CD	I-movie.gross_revenue	I-movie.release_date
+VBZ	O	O
+DT	O	O
+JJ	O	B-country.name
+NN	O	O
+JJ	O	B-movie.name
+		
+SYM	B-rating.name	O
+NN	O	B-movie.subject
+WP	O	O
+VVZ	O	O
+RB	O	O
+VV	O	O
+		
+IN	B-movie.name	O
+NN	I-movie.name	B-rating.name
+		
+NN	B-producer.name	B-movie.subject
+:	O	O
+WP	O	O
+VVZ	O	O
+PP	O	O
+VV	O	B-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NN	O	B-person.name
+NNS	O	I-person.name
+		
+WRB	O	O
+VVZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	B-rating.name	I-rating.name
+NN	O	I-rating.name
+		
+VVD	O	O
+PP	O	O
+VHP	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+		
+NN	O	B-movie.subject
+NN	O	I-movie.subject
+IN	O	I-movie.subject
+NN	O	I-movie.subject
+		
+NNS	O	O
+VHP	O	O
+DT	O	B-rating.name
+CD	O	I-rating.name
+NN	O	I-rating.name
+JJ	O	I-rating.name
+		
+NN	B-movie.name	O
+IN	I-movie.name	O
+NN	I-movie.name	B-character.name
+NN	O	O
+IN	O	O
+VVD	O	O
+JJR	O	B-director.name
+NN	O	I-director.name
+		
+WRB	O	O
+DT	O	O
+NN	O	B-character.name
+VVZ	O	O
+RB	O	B-movie.name
+VV	O	O
+PP	O	O
+VVP	O	O
+PP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-person.name	I-rating.name
+NN	I-person.name	I-rating.name
+		
+JJ	O	B-movie.subject
+NNS	O	O
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+		
+IN	O	O
+NN	O	B-rating.name
+		
+JJ	O	B-movie.name
+		
+JJ	O	B-movie.name
+		
+NN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.language	I-movie.name
+		
+WRB	O	O
+VBZ	O	O
+NN	B-movie.language	B-rating.name
+		
+WP	O	O
+VBZ	O	O
+NN	B-person.name	B-character.name
+NN	I-person.name	I-character.name
+POS	O	I-character.name
+JJ	O	I-character.name
+NN	O	I-character.name
+		
+NN	O	B-movie.name
+		
+NN	O	B-movie.name
+CD	O	I-movie.name
+CD	O	I-movie.name
+WP	O	O
+		
+CD	O	B-movie.release_date
+CD	O	I-movie.release_date
+NN	O	I-movie.release_date
+CD	O	I-movie.release_date
+CD	O	I-movie.release_date
+NNS	O	O
+VBD	O	O
+VVN	O	O
+IN	O	B-movie.release_date
+WP	O	O
+		
+VV	O	O
+NN	O	B-rating.name
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+		
+IN	O	O
+NNS	O	O
+		
+DT	O	O
+NN	O	O
+DT	B-movie.name	B-character.name
+NN	I-movie.name	O
+VBZ	O	O
+IN	O	O
+NN	B-country.name	B-movie.release_date
+:	O	O
+WRB	O	O
+VBZ	O	O
+DT	O	O
+NN	O	B-movie.location
+NN	B-country.name	I-movie.location
+		
+WRB	O	O
+NN	O	B-movie.subject
+VBZ	O	O
+PP	O	O
+TO	O	O
+VV	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+VVD	O	O
+PP	O	O
+IN	O	O
+VVG	O	B-movie.release_date
+IN	O	O
+WP	O	O
+PP	O	O
+VVD	O	O
+		
+MD	O	O
+NNS	O	B-movie.subject
+VV	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+NP	B-country.name	B-movie.name
+		
+VBD	O	O
+PP$	O	O
+NN	O	B-character.name
+NN	O	O
+PP	O	B-movie.name
+		
+JJ	O	O
+JJ	O	B-producer.name
+NN	O	I-producer.name
+NNS	O	I-producer.name
+		
+VV	O	O
+JJR	O	O
+NN	O	B-character.name
+WDT	O	O
+VVZ	O	O
+TO	O	O
+NN	B-country.name	B-movie.location
+		
+NNS	O	O
+IN	O	O
+NN	O	B-person.name
+NN	O	I-person.name
+		
+JJS	O	O
+NNS	O	O
+IN	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+VV	O	O
+DT	O	O
+JJ	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VVD	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+JJ	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+IN	O	B-rating.name
+NN	O	I-rating.name
+CD	O	I-rating.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+JJ	O	O
+NNS	O	B-movie.name
+		
+WRB	O	O
+NN	O	O
+VBZ	O	O
+NN	B-person.name	B-movie.location
+NN	I-person.name	I-movie.location
+		
+WRB	O	O
+VBD	O	O
+NN	B-person.name	B-character.name
+NN	I-person.name	O
+VVN	O	B-movie.name
+		
+WRB	O	O
+VBD	O	O
+JJ	B-movie.name	B-character.name
+NN	I-movie.name	O
+VVD	O	O
+		
+WRB	O	O
+VBD	O	O
+NP	B-movie.name	B-character.name
+POS	I-movie.name	O
+NN	I-movie.name	B-movie.name
+NN	O	I-movie.name
+		
+NN	O	O
+NN	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	B-movie.release_region	I-rating.name
+NN	I-movie.release_region	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+NN	O	O
+NN	O	B-producer.name
+NN	O	I-producer.name
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+JJ	O	I-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+VBZ	I-movie.release_date	O
+IN	I-movie.release_date	O
+NN	I-movie.release_date	B-movie.name
+		
+JJS	O	O
+NN	O	B-rating.name
+		
+JJS	O	O
+NNS	O	O
+IN	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+UH	O	O
+VV	O	O
+PP	O	O
+JJ	O	B-producer.name
+NN	O	I-producer.name
+NNS	O	I-producer.name
+		
+JJS	O	O
+NNS	O	O
+		
+WP	O	O
+VVD	O	O
+DT	O	B-character.name
+IN	O	O
+DT	O	B-movie.name
+RBS	O	O
+JJ	O	B-movie.language
+NNS	O	O
+		
+VV	O	O
+PP	O	O
+JJ	O	B-character.name
+NN	O	O
+NNS	O	B-movie.name
+		
+WP	O	O
+VVD	O	O
+NN	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+VVP	O	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+NN	O	B-movie.name
+POS	O	I-movie.name
+NN	O	I-movie.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+JJ	B-director.nationality	B-movie.release_date
+NN	O	O
+WDT	O	O
+VVD	O	O
+DT	O	O
+NN	B-movie.genre	B-movie.location
+NN	O	I-movie.location
+		
+NN	O	O
+NN	B-movie.name	B-producer.name
+NN	O	I-producer.name
+		
+VV	O	O
+NN	B-movie.name	B-producer.name
+NN	O	I-producer.name
+		
+WP	O	O
+VBD	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	O
+NN	B-award.ceremony	B-character.name
+NN	O	O
+VVG	O	B-movie.name
+JJ	B-country.name	B-director.name
+NN	B-movie.genre	I-director.name
+		
+WP	O	O
+NN	O	B-actor.name
+NNS	O	I-actor.name
+VVG	O	O
+NN	B-actor.name	B-actor.name
+NNS	I-actor.name	I-actor.name
+VVD	O	O
+NN	B-award.ceremony	B-actor.name
+NNS	O	I-actor.name
+		
+IN	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	O
+CC	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+CC	O	O
+NN	O	O
+IN	O	O
+DT	B-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+NNS	O	B-movie.subject
+DT	O	O
+NN	B-director.name	O
+NN	I-director.name	O
+JJ	O	B-movie.release_date
+IN/that	O	O
+PP	O	O
+VVD	O	O
+DT	O	B-movie.release_date
+JJS	B-award.category	O
+NN	I-award.category	B-movie.subject
+NN	B-award.ceremony	I-movie.subject
+IN	O	I-movie.subject
+		
+WP	O	O
+VBZ	O	O
+NN	B-director.name	B-character.name
+POS	O	I-character.name
+RBS	O	O
+JJ	O	B-movie.name
+NN	O	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+IN	O	O
+NP	B-director.name	B-movie.name
+SYM	I-director.name	I-movie.name
+VVZ	I-director.name	I-movie.name
+JJS	O	O
+NNS	O	O
+		
+VVG	O	O
+IN	O	O
+NNS	O	O
+VVN	O	O
+IN	O	B-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+CD	O	I-rating.name
+		
+NN	O	O
+IN	O	O
+NNS	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	O	I-movie.name
+CD	O	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NN	O	O
+WDT	O	O
+VVD	O	O
+CD	B-movie.gross_revenue	B-rating.name
+NN	I-movie.gross_revenue	I-rating.name
+CD	I-movie.gross_revenue	I-rating.name
+CD	I-movie.gross_revenue	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+WDT	O	O
+VVD	O	O
+IN	B-movie.gross_revenue	B-rating.name
+CD	I-movie.gross_revenue	I-rating.name
+CD	I-movie.gross_revenue	I-rating.name
+NNS	I-movie.gross_revenue	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN/that	O	O
+NN	O	B-movie.name
+NN	O	I-movie.name
+JJ	O	I-movie.name
+RB	O	I-movie.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+NNS	O	B-movie.release_date
+IN	O	O
+RB	B-movie.release_date	O
+CD	I-movie.release_date	B-movie.release_date
+NNS	I-movie.release_date	O
+		
+VV	O	O
+JJ	B-movie.release_date	B-rating.name
+NNS	I-movie.release_date	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	B-producer.name	I-rating.name
+NNS	I-producer.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NNS	O	B-character.name
+WDT	O	O
+VVD	O	O
+RP	O	O
+CD	B-movie.release_date	B-rating.name
+NN	I-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+NN	I-movie.release_date	I-rating.name
+		
+VBD	O	O
+RB	O	O
+DT	O	B-character.name
+NNS	O	O
+VVD	O	O
+CD	B-movie.release_date	B-rating.name
+NN	I-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+NN	I-movie.release_date	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+NNS	I-movie.release_date	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	B-rating.name
+DT	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+NN	I-movie.release_date	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+CD	B-movie.star_rating	I-rating.name
+NNS	O	I-rating.name
+CC	O	O
+RB	O	O
+		
+NN	B-award.ceremony	O
+NN	O	B-producer.name
+NN	B-producer.name	I-producer.name
+NNS	O	I-producer.name
+		
+NN	O	B-movie.subject
+NN	B-award.ceremony	I-movie.subject
+VVG	O	I-movie.subject
+NNS	O	I-movie.subject
+IN	O	I-movie.subject
+NN	B-producer.name	I-movie.subject
+NNS	I-producer.name	I-movie.subject
+		
+WP	O	O
+NN	O	B-actor.name
+NN	O	I-actor.name
+VVD	O	O
+NN	B-actor.name	B-actor.name
+NNS	I-actor.name	I-actor.name
+VVP	O	O
+PP$	O	O
+JJS	B-award.category	O
+JJ	I-award.category	B-movie.release_date
+NN	B-award.ceremony	O
+		
+VHP	O	O
+DT	O	O
+PP	B-country.name	O
+VVN	O	O
+NNS	O	B-movie.release_date
+VBN	O	O
+VVN	O	O
+IN	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	B-movie.location	I-rating.name
+NN	I-movie.location	I-rating.name
+		
+WP	O	O
+PP	B-country.name	O
+VVP	O	B-character.name
+NNS	O	O
+VHP	O	O
+VBN	O	O
+VVN	O	O
+IN	O	O
+DT	O	O
+NN	B-movie.location	B-movie.location
+NN	I-movie.location	I-movie.location
+		
+NN	O	O
+NNS	O	O
+VVN	O	B-country.name
+IN	O	O
+NN	B-movie.location	B-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.release_region	I-movie.name
+		
+WP	O	O
+NNS	O	O
+VBP	O	O
+VVG	O	B-movie.release_date
+RP	O	O
+DT	B-movie.release_date	O
+NN	I-movie.release_date	B-rating.name
+IN	O	I-rating.name
+JJ	B-movie.release_region	I-rating.name
+NN	I-movie.release_region	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-character.name
+NNS	O	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+NN	B-movie.release_region	I-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+CD	O	I-rating.name
+NN	B-country.name	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+WP	O	O
+JJ	O	O
+NNS	O	B-character.name
+VHP	O	O
+VVN	O	B-movie.name
+RP	O	I-movie.name
+IN	O	I-movie.name
+NN	B-country.name	I-movie.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+JJ	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-country.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+JJS	O	O
+VVN	O	B-movie.name
+NN	B-movie.subject	I-movie.name
+NN	O	I-movie.name
+		
+WP	O	O
+VBP	O	O
+RB	O	O
+VVN	O	O
+NN	B-movie.subject	B-movie.release_date
+NNS	O	O
+NP	O	O
+MD	O	O
+VV	O	O
+		
+NN	O	O
+IN	O	O
+JJ	O	B-person.name
+NNS	O	I-person.name
+		
+NN	O	O
+IN	O	O
+JJ	B-movie.language	B-character.name
+NN	I-movie.language	O
+NNS	O	B-movie.name
+		
+WP	O	O
+VBZ	O	O
+NN	B-actor.name	B-rating.name
+NN	I-actor.name	I-rating.name
+JJ	O	I-rating.name
+IN	O	I-rating.name
+		
+VBZ	O	O
+DT	O	O
+DT	O	B-movie.location
+NN	B-movie.genre	I-movie.location
+		
+VVP	O	O
+IN/that	O	O
+DT	O	B-character.name
+NN	O	O
+VBZ	O	O
+IN	O	O
+NN	B-movie.language	B-movie.location
+		
+VBZ	O	O
+DT	O	O
+NN	O	B-character.name
+IN	O	O
+NN	B-movie.language	B-movie.name
+		
+VV	O	O
+PP	O	O
+VV	O	B-rating.name
+JJ	B-movie.language	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+		
+VBZ	O	O
+DT	O	O
+NN	O	B-character.name
+VVN	O	O
+IN	O	B-movie.name
+NN	B-movie.location	I-movie.name
+		
+VV	O	O
+DT	O	O
+NN	B-movie.name	B-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+NNS	O	I-rating.name
+		
+DT	O	O
+IN	O	O
+NP	B-movie.name	B-producer.name
+NP	I-movie.name	I-producer.name
+NN	I-movie.name	I-producer.name
+NNS	O	I-producer.name
+		
+NN	O	O
+NNS	O	B-movie.subject
+WDT	O	O
+VHP	O	O
+NN	O	O
+NN	O	B-character.name
+IN	O	O
+PP$	O	B-movie.name
+NN	O	I-movie.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+CD	B-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+CD	I-movie.release_date	I-rating.name
+NN	O	I-rating.name
+NN	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+CD	I-movie.release_date	I-rating.name
+NN	I-movie.release_date	I-rating.name
+		
+VV	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-movie.language	I-rating.name
+NNS	O	I-rating.name
+		
+NNS	O	O
+VVP	O	O
+TO	O	O
+VV	O	O
+JJR	O	O
+IN	O	O
+DT	O	B-movie.release_date
+NN	O	O
+CC	O	O
+NNS	O	O
+IN	O	O
+JJ	B-actor.nationality	B-actor.nationality
+NN	O	O
+NN	B-actor.name	B-actor.name
+NN	I-actor.name	I-actor.name
+		
+WP	O	O
+VVZ	O	O
+DT	O	B-rating.name
+NN	B-producer.name	I-rating.name
+NN	O	I-rating.name
+VVP	O	I-rating.name
+IN	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+NN	B-person.name	B-movie.name
+NN	I-person.name	I-movie.name
+		
+NNS	O	O
+IN	O	O
+JJ	B-person.name	B-person.name
+NN	I-person.name	I-person.name
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NN	B-person.name	I-rating.name
+NN	I-person.name	I-rating.name
+		
+VV	O	O
+PP	O	O
+NNS	O	B-character.name
+IN	O	O
+JJ	B-person.name	B-movie.name
+NN	I-person.name	I-movie.name
+		
+WP	O	O
+VBP	O	O
+JJ	O	B-character.name
+NN	O	O
+NNS	O	B-movie.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+PP	O	O
+DT	O	B-movie.location
+NN	O	I-movie.location
+		
+NP	O	O
+MD	O	B-rating.name
+VV	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+WP	O	O
+NN	O	O
+VBZ	O	O
+DT	O	O
+NN	O	B-movie.location
+NN	B-movie.name	I-movie.location
+		
+WP	O	O
+VBZ	O	O
+VVG	B-movie.name	O
+NN	I-movie.name	B-movie.release_date
+VVN	O	O
+		
+NNS	O	I-rating.name
+VVP	O	I-rating.name
+TO	O	I-rating.name
+VV	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+		
+MD	O	O
+PP	O	O
+VV	O	O
+RP	O	O
+WP	O	O
+NN	O	B-character.name
+DT	O	O
+NN	O	B-movie.name
+NN	B-movie.name	I-movie.name
+VBZ	O	I-movie.name
+		
+WP	O	O
+VBZ	O	O
+NNS	B-movie.name	B-character.name
+IN	O	O
+NN	B-director.name	B-movie.name
+NN	I-director.name	I-movie.name
+VVN	O	O
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+NN	B-movie.name	O
+CC	I-movie.name	B-movie.release_date
+PP	I-movie.name	O
+VVP	O	O
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+NN	B-movie.name	O
+CC	I-movie.name	O
+NN	I-movie.name	B-movie.location
+NN	I-movie.name	I-movie.location
+		
+WP	O	O
+NN	O	O
+VVD	O	O
+JJ	B-movie.name	B-director.name
+NN	I-movie.name	I-director.name
+VV	O	O
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-character.name
+NN	I-movie.name	O
+CC	I-movie.name	B-movie.name
+DT	I-movie.name	I-movie.name
+NN	I-movie.name	I-movie.name
+		
+WP	O	O
+NN	O	B-rating.name
+VBZ	O	O
+NN	B-movie.name	B-rating.name
+RB	I-movie.name	O
+		
+VV	O	O
+RP	O	O
+DT	O	B-character.name
+NN	O	O
+IN	O	O
+DT	O	B-character.name
+NN	O	O
+NN	B-movie.name	B-movie.name
+RB	I-movie.name	I-movie.name
+		
+WP	O	O
+NN	O	B-movie.subject
+VVD	O	O
+DT	B-movie.name	O
+NN	I-movie.name	B-rating.name
+NN	O	I-rating.name
+VV	O	I-rating.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+DT	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-character.name
+VVG	I-movie.name	O
+NN	I-movie.name	B-movie.name
+		
+WP	O	O
+VBD	O	O
+JJ	O	B-character.name
+NN	O	O
+IN	O	B-movie.name
+NN	B-movie.name	I-movie.name
+VVZ	I-movie.name	I-movie.name
+		
+WRB	O	O
+RB	O	O
+VHZ	O	O
+JJ	B-movie.name	B-character.name
+NN	I-movie.name	O
+VVN	O	B-movie.name
+IN	O	I-movie.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+DT	O	O
+NN	O	B-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+VVP	I-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+		
+WP	O	O
+VBZ	O	O
+DT	O	B-character.name
+JJS	O	O
+DT	O	B-movie.name
+NN	O	I-movie.name
+VVD	O	O
+		
+NNS	O	O
+IN	O	O
+JJ	B-movie.name	B-person.name
+NN	I-movie.name	I-person.name
+		
+VV	O	O
+NNS	O	B-rating.name
+IN	O	I-rating.name
+JJ	B-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+WP	O	O
+VBP	O	O
+NNS	O	B-character.name
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NNS	O	O
+CC	O	O
+NN	O	B-character.name
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+NNS	O	O
+IN	O	O
+VVG	B-movie.name	B-movie.name
+NN	I-movie.name	I-movie.name
+		
+NNS	O	B-movie.subject
+IN	O	I-movie.subject
+NN	O	I-movie.subject
+		
+NNS	O	B-movie.subject
+IN	O	I-movie.subject
+IN	B-movie.name	I-movie.subject
+NN	I-movie.name	I-movie.subject
+		
+WP	O	O
+VBP	O	O
+DT	O	B-character.name
+NNS	O	O
+VVG	O	O
+IN	O	B-rating.name
+NN	B-movie.name	I-rating.name
+NNS	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+WRB	O	O
+RB	O	O
+VBZ	O	O
+NN	B-movie.name	B-character.name
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-movie.name
+		
+NN	O	O
+IN	O	B-rating.name
+DT	O	I-rating.name
+NN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+CD	I-movie.name	I-rating.name
+		
+VVG	B-movie.name	O
+NN	I-movie.name	B-producer.name
+NN	O	I-producer.name
+NN	O	I-producer.name
+		
+VV	O	O
+PP	O	O
+DT	O	B-rating.name
+NN	O	I-rating.name
+IN	O	I-rating.name
+NN	B-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+IN	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+NN	B-movie.name	O
+VBZ	I-movie.name	O
+JJ	I-movie.name	B-person.name
+NN	O	I-person.name
+		
+NN	O	O
+IN	O	O
+NN	B-movie.name	B-rating.name
+NNS	I-movie.name	I-rating.name
+DT	I-movie.name	I-rating.name
+JJ	I-movie.name	I-rating.name
+NN	I-movie.name	I-rating.name
+		
+VV	O	O
+JJ	B-movie.name	B-rating.name
+JJ	I-movie.name	I-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+NNS	O	I-rating.name
+		
+MD	O	O
+NNS	O	O
+VV	O	B-rating.name
+NNS	O	I-rating.name
+IN	O	I-rating.name
+JJ	O	I-rating.name
+NN	B-producer.name	I-rating.name
+NNS	I-producer.name	I-rating.name
+NNS	O	I-rating.name
+		
+WRB	O	O
+JJ	O	B-producer.name
+JJ	B-director.name	I-producer.name
+NN	I-director.name	I-producer.name
+NNS	O	I-producer.name
+VBP	O	O
+VVN	O	O
+IN	O	B-rating.name
+JJ	B-movie.location	I-rating.name
+VVP	I-movie.location	I-rating.name
+NN	I-movie.location	I-rating.name
+		
+WRB	O	O
+JJ	O	B-producer.name
+JJ	B-producer.name	I-producer.name
+NNS	O	I-producer.name
+VBD	O	O
+VVN	O	O
+IN	O	O
+NN	B-movie.location	B-movie.location
+		
