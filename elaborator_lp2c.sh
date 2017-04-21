@@ -29,14 +29,12 @@ if [ "$#" -ne 6 ]; then
 
     exit 1
 fi
-    ./gen_lex_lemmaPos2concepts.sh $1 $3 $lexicon
-    ./LemmaPos2concepts.py $1 $5 $3
+    ./gen_lex_LemmaPos2Concept.sh $1 $3 $lexicon
+    ./LemmaPos2concept.py $1 $5 $3
     fstcompile --isymbols=$lexicon --osymbols=$lexicon $automata_lp2c_txt > $automata_lp2c
     farcompilestrings --symbols=$lexicon --unknown_symbol='<unk>' concepts_sentence.txt > tag_sentence.far
     while read -r method
     do
-      for order in {1..5}
-      do
       output="automata_"$method"_"$order".txt"
           evaluation="eval_"$method"_"$order".txt"
           folder=$method"_lp2c"
@@ -49,7 +47,7 @@ fi
         while read -r line
         do
 
-            ngramcount --order=$order --require_symbols=false tag_sentence.far > pos$method$order.cnt
+            ngramcount --order=$ngram_order --require_symbols=false tag_sentence.far > pos$method$order.cnt
             ngrammake --method=$method pos$method$order.cnt > pos$method$order.lm
             echo "$line" | farcompilestrings --symbols=$lexicon --unknown_symbol='<unk>' --generate_keys=1 --keep_symbols | farextract --filename_suffix='.fst'
           fstcompose 1.fst $automata_lp2c | fstcompose - pos$method$order.lm | fstrmepsilon | fstshortestpath | fsttopsort | fstprint --isymbols=$lexicon --osymbols=$lexicon >> $folder/$output
@@ -63,5 +61,4 @@ fi
         paste tmp_test_feat.txt tmp_test.txt tmp.txt > $folder/final_$method_$order.txt
         perl conlleval.pl -d "\t" < $folder/final_$method_$order.txt > $folder/$evaluation
         rm pos* 1.fst tmp*.txt
-        done
     done < $method_file

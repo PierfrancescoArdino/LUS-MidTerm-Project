@@ -1,9 +1,16 @@
 #! /bin/python3
-import sys
+'''
+LUS mid-term project, Spring 2017
+Student: Pierfrancesco Ardino, 189159
 
-if len(sys.argv)!=4:
-    print("Errore")
-    exit(0)
+This script simply check if the output concept is in the concept list, if not it means that the output concept is the word
+itself and so has to be changed into the O concept
+#### HOW-TO USE####
+Do not run this script independently.
+Please refer to the elaborator_w2c_without_O.sh that will creates the lexicon, runs this script and trains the automaton
+Do not touch any file in the directory.
+'''
+import sys
 output_original = sys.argv[1]
 output_file = sys.argv[2]
 concept_file = sys.argv[3]

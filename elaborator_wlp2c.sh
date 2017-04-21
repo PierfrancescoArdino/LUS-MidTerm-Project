@@ -29,14 +29,12 @@ if [ "$#" -ne 6 ]; then
     echo -e "Incorrect syntax, use the following one.\n-arg1=train_file \n-arg2=test_file \n-arg3=train_features \n-arg4=smoothing_method_file \n-arg5=test_features \n-arg6=ngram_order"
     exit 1
 fi
-    ./gen_lex_WordLemmaPos2concepts.sh $1 $3 $lexicon
-    ./WordLemmaPos2concepts.py $1 $5 $3
+    ./gen_lex_WordLemmaPos2Concept.sh $1 $3 $lexicon
+    ./WordLemmaPos2Concept.py $1 $5 $3
     fstcompile --isymbols=$lexicon --osymbols=$lexicon $automata_wlp2c_txt > $automata_wlp2c
     farcompilestrings --symbols=$lexicon --unknown_symbol='<unk>' concepts_sentence.txt > tag_sentence.far
     while read -r method
     do
-      for order in {1..5}
-      do
       output="automata_"$method"_"$order".txt"
           evaluation="eval_"$method"_"$order".txt"
           folder=$method"_wlp2c"
@@ -63,5 +61,4 @@ fi
         paste tmp_test_feat.txt tmp_test.txt tmp.txt > $folder/final_$method_$order.txt
         perl conlleval.pl -d "\t" < $folder/final_$method_$order.txt > $folder/$evaluation
         rm pos* 1.fst tmp*.txt
-        done
     done < $method_file
