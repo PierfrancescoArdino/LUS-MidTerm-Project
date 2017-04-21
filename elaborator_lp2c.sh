@@ -29,10 +29,15 @@ if [ "$#" -ne 6 ]; then
 
     exit 1
 fi
+#generate lexicon for the LemmaPos2Concept transducer
     ./gen_lex_LemmaPos2Concept.sh $1 $3 $lexicon
+#generate the automaton, the ngram file and the test file
     ./LemmaPos2concept.py $1 $5 $3
+#compile the automaton
     fstcompile --isymbols=$lexicon --osymbols=$lexicon $automata_lp2c_txt > $automata_lp2c
+#compile the training file with only the concept for the LM
     farcompilestrings --symbols=$lexicon --unknown_symbol='<unk>' concepts_sentence.txt > tag_sentence.far
+#train and test with the method specified in the smoothing method file and test the model with the testing file
     while read -r method
     do
       output="automata_"$method"_"$order".txt"
@@ -46,15 +51,20 @@ fi
           > $folder/$output
         while read -r line
         do
+#train the LM model
 
             ngramcount --order=$ngram_order --require_symbols=false tag_sentence.far > pos$method$order.cnt
             ngrammake --method=$method pos$method$order.cnt > pos$method$order.lm
+           #test the automaton with each sentence in the testing file
+
             echo "$line" | farcompilestrings --symbols=$lexicon --unknown_symbol='<unk>' --generate_keys=1 --keep_symbols | farextract --filename_suffix='.fst'
           fstcompose 1.fst $automata_lp2c | fstcompose - pos$method$order.lm | fstrmepsilon | fstshortestpath | fsttopsort | fstprint --isymbols=$lexicon --osymbols=$lexicon >> $folder/$output
             echo " " >> $folder/$output
             ((sentence_counter++))
             echo "Line $sentence_counter: $line"
         done < $input_test
+   #compute the output and evaluate the result
+
         awk '{print $4}' < $folder/$output | awk -v RS= -v ORS="\n\n" "1" > tmp.txt
         awk '{print $2}' < $test_file > tmp_test.txt
         awk '{print $3"$"$2}' < $test_features | awk '{if ($1=="$") print""; else print;}' > tmp_test_feat.txt

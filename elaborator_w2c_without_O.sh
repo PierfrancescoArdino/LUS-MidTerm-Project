@@ -24,10 +24,15 @@ if [ "$#" -ne 4 ]; then
     echo -e "Incorrect syntax, use the following one.\n-arg1=train_file \n-arg2=test_file \n-arg3=smoothing_method_file \n-arg4=ngram_order"
     exit 1
 fi
+#generate lexicon for the Word2Concept transducer without the O concept
     ./gen_lex_w2c_without_O.sh $1 $lexicon
+#generate the automaton, the ngram file and the test file
     ./Word2Concept_Without_O.py $1 $2
+#compile the automaton
     fstcompile --isymbols=$lexicon --osymbols=$lexicon $automata_txt > $automata_fst
+#compile the training file with only the concept for the LM
     farcompilestrings --symbols=$lexicon --unknown_symbol='<unk>' concepts_sentence.txt > tag_sentence.far
+#train and test with the method specified in the smoothing method file and test the model with the testing file
     while read -r method
     do
           output="automata_"$method"_"$order".txt"
@@ -41,17 +46,22 @@ fi
 > $folder/$output
         while read -r line
         do
+        #train the LM model
+
             ngramcount --order=$ngram_order --require_symbols=false tag_sentence.far > pos$method$order.cnt
             ngrammake --method=$method pos$method$order.cnt > pos$method$order.lm
+#test the automaton with each sentence in the testing file
+
             echo "$line" | farcompilestrings --symbols=$lexicon --unknown_symbol='<unk>' --generate_keys=1 --keep_symbols | farextract --filename_suffix='.fst'
           fstcompose 1.fst $automata_fst | fstcompose - pos$method$order.lm | fstrmepsilon | fstshortestpath | fsttopsort | fstprint --isymbols=$lexicon --osymbols=$lexicon >> $folder/$output
             echo " " >> $folder/$output
             ((sentence_counter++))
             echo "Line $sentence_counter: $line"
         done < $input_test
+#compute the output and evaluate the result
         awk '{print $4}' < $folder/$output | awk -v RS= -v ORS="\n\n" "1" > tmp.txt
         ./compute_output.py tmp.txt tmp1.txt concept_list.txt
-        paste NLSPARQL.test.data tmp1.txt > $folder/final_$method_$order.txt
+        paste $test_file tmp1.txt > $folder/final_$method_$order.txt
         perl conlleval.pl -d "\t" < $folder/final_$method_$order.txt > $folder/$evaluation
         rm pos* 1.fst tmp* concept_list*
     done < $method_file
